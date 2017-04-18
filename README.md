@@ -23,6 +23,6 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
 
 
 ## Disclaimer
- + *Any and all actions taken with these lists are for LAWFUL, ETHICAL AND EDUCATIONAL PURPOSES ONLY.
+ + Any and all actions taken with these lists are for LAWFUL, ETHICAL AND EDUCATIONAL PURPOSES ONLY.
  + By using these lists, you agree to not hold the author responsible for your actions.
- + By using these lists, you agree to these terms and are completely culpable for your own behavior.*
+ + By using these lists, you agree to these terms and are completely culpable for your own behavior.
