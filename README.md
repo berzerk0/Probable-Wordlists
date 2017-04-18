@@ -20,3 +20,9 @@ Lists sorted by popularity will include "probable" in the filename
 ## Dictionary-Style Lists
 
 Wordlists including dictionaries, encyclopedic lists and miscellaneous.
+
+
+## Disclaimer
+Any and all actions taken with these lists are for LAWFUL, ETHICAL AND EDUCATIONAL PURPOSES ONLY.
+By using these lists, you agree to not hold the authorresponsible for your actions.
+By using these lists, you agree to these terms and are completely culpable for your own behavior.
