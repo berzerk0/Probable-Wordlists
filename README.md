@@ -41,4 +41,4 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
 
  + The files contained in this repository are released "as is" without warranty, support, or guarantee of effectiveness. However, I am open to hearing about any issues found within these files and will be actively maintaining this repository for the forseeable future. If you find anything noteworthy, let me know and I'll see what I can do about it.
  
- + This is released without license or copyright, but also without intent for commercial use. 
+ + This is released without license, but also without intent for commercial use. 
