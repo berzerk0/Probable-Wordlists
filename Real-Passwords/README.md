@@ -34,11 +34,15 @@ Lists sorted by popularity will include "probable" in the filename
 I did not steal, phish, deceive or hack in any way to get hold of these passwords. 
 All lines in these files were obtained through freely available means. 
 
-![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/Probable_Wordlist_Logo.png)
+![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
 
 
 ## Disclaimer
  + Any and all actions taken with these lists are for LAWFUL, ETHICAL AND EDUCATIONAL PURPOSES ONLY.
  + By using these lists, you agree to not hold the author responsible for your actions.
  + By using these lists, you agree to these terms and are completely culpable for your own behavior.
+
+ + The files contained in this repository are released "as is" without warranty, support, or guarantee of effectiveness. However, I am open to hearing about any issues found within these files and will be actively maintaining this repository for the forseeable future. If you find anything noteworthy, let me know and I'll see what I can do about it.
+ 
+ + This is released without license, but also without intent for commercial use. 
 
