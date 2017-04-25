@@ -38,3 +38,7 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
  + Any and all actions taken with these lists are for LAWFUL, ETHICAL AND EDUCATIONAL PURPOSES ONLY.
  + By using these lists, you agree to not hold the author responsible for your actions.
  + By using these lists, you agree to these terms and are completely culpable for your own behavior.
+
+ + The files contained in this repository are released "as is" without warranty, support, or guarantee of effectiveness. However, I am open to hearing about any issues found within these files and will be actively maintaining this repository for the forseeable future. If you find anything noteworthy, let me know and I'll see what I can do about it.
+ 
+ + This is released without license or copyright, but also without intent for commercial use. 
