@@ -35,3 +35,10 @@ I did not steal, phish, deceive or hack in any way to get hold of these password
 All lines in these files were obtained through freely available means. 
 
 ![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/Probable_Wordlist_Logo.png)
+
+
+## Disclaimer
+ + Any and all actions taken with these lists are for LAWFUL, ETHICAL AND EDUCATIONAL PURPOSES ONLY.
+ + By using these lists, you agree to not hold the author responsible for your actions.
+ + By using these lists, you agree to these terms and are completely culpable for your own behavior.
+
