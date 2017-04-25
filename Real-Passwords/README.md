@@ -34,4 +34,4 @@ Lists sorted by popularity will include "probable" in the filename
 I did not steal, phish, deceive or hack in any way to get hold of these passwords. 
 All lines in these files were obtained through freely available means. 
 
-![Probable Wordlists Logo](Probable-Wordlists/Real-Passwords/Probable_Wordlist_Logo.png)
+![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/Probable_Wordlist_Logo.png)
