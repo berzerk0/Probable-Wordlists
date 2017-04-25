@@ -21,7 +21,7 @@
   
  
 
-![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/Probable_Wordlist_Logo.png)
+![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
 
 ## Disclaimer
  + Any and all actions taken with these lists are for LAWFUL, ETHICAL AND EDUCATIONAL PURPOSES ONLY.
