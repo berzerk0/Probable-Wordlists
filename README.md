@@ -1,5 +1,5 @@
 
-![Probable Wordlists Logo](Probable_Wordlists.png)
+![Probable Wordlists Logo](Probable_Wordlist_Logo.png)
 
 
 # Probable Wordlists
