@@ -1,4 +1,4 @@
-#What am I looking at?
+# What am I looking at?
 
 ### "Sorted-Into-Chunks"
   * This folder contains all the passwords, sorted by probability, broken into files about 24MB in size
@@ -14,10 +14,11 @@
   * Top 35 Million - appeared at least 10 times
   * Top 297 Million - appeared at least 5 times
   
-  To get the list of approximately 2 Billion, you will need to look in the "Sorted-Into-Chunks" folder. 
-  Letting the full 2 billion wordlist loose is possible, but pretty cumbersome and inefficient.
+  To get the list of approximately 2 Billion, you will need to look in the "Sorted-Into-Chunks" folder.
   
-  If you clone the repo, files Sorted-Into-Chunks folder can be joined back together with a command like `cat`
+  Using the full 2-billion-line wordlist loose is possible, but pretty cumbersome and inefficient.
+  
+  *If you clone the repo, files Sorted-Into-Chunks folder can be joined back together with a command like `cat`*
 
 These are **REAL** passwords. Every once in a while, a popular site has a high-profile security leak and passwords are released freely across the internet.
 Some of these passwords can be found on aggregator sites where they are separated from usernames to protect the unfortunate victim.
