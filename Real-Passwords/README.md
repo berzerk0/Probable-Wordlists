@@ -1,10 +1,10 @@
-What am I looking at?
+#What am I looking at?
 
-* "Sorted-Into-Chunks"
+##* "Sorted-Into-Chunks"
   * This folder contains all the passwords, sorted by probability, broken into files about 24MB in size
-* "WPA-Length" 
+##* "WPA-Length" 
   * This folder contains passwords at least 8 characters long, but less than 40 characters. This is the format used by routers protected by WPA/2 security
-* Files not in any folders
+##* Files not in any folders
   * THESE ARE THE PASSWORDS!  
   * Their length is in their title
   * I generated files by the number of times each line appeared in my analysis. Files are available for 75, 50, 25, 10, and 5 appearances.
@@ -17,7 +17,7 @@ What am I looking at?
   To get the list of approximately 2 Billion, you will need to look in the "Sorted-Into-Chunks" folder. 
   Letting the full 2 billion wordlist loose is possible, but pretty cumbersome and inefficient.
   
-  # If you clone the repo, files Sorted-Into-Chunks folder can be joined back together with a command like `cat`
+  If you clone the repo, files Sorted-Into-Chunks folder can be joined back together with a command like `cat`
 
 These are **REAL** passwords. Every once in a while, a popular site has a high-profile security leak and passwords are released freely across the internet.
 Some of these passwords can be found on aggregator sites where they are separated from usernames to protect the unfortunate victim.
