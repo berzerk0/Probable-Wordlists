@@ -33,7 +33,7 @@ Lists sorted by popularity will include "probable" in the filename
 
 Wordlists including dictionaries, encyclopedic lists and miscellaneous.
 
-![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
+
 
 ## Disclaimer
  + Any and all actions taken with these lists are for LAWFUL, ETHICAL AND EDUCATIONAL PURPOSES ONLY.
