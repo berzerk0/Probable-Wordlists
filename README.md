@@ -1,6 +1,17 @@
 
 ![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
 
+### Rev 1.1 Task List
+* [ ] Make Quickfix for duplicates caused by newline and blankspace characters (not a full fix)
+* [ ] Upload WPA-Chunks
+
+### Rev 2 List
+* More sources
+* Bigger sources
+* Non-ASCII Sources
+
+### Laser-Guided Wordlist Generator in the works as well.
+
 
 # Probable Wordlists
 Wordlists sorted by populatirty originally created for password generation and testing
