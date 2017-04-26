@@ -17,9 +17,9 @@
 
 
 # Probable Wordlists
-Wordlists sorted by populatirty originally created for password generation and testing
+Wordlists sorted by popularity originally created for password generation and testing
 
-### Why slog through an encylopedic, alphabetized wordlist when you can start with the words people are most likely to use?
+### Why slog through an encyclopedic, alphabetized wordlist when you can start with the words people are most likely to use?
 
 There are some great wordlists out there, but I decided to amalgamate, edit, trim and create a few of my own.
 
@@ -54,6 +54,6 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
  + By using these lists, you agree to not hold the author responsible for your actions.
  + By using these lists, you agree to these terms and are completely culpable for your own behavior.
 
- + The files contained in this repository are released "as is" without warranty, support, or guarantee of effectiveness. However, I am open to hearing about any issues found within these files and will be actively maintaining this repository for the forseeable future. If you find anything noteworthy, let me know and I'll see what I can do about it.
+ + The files contained in this repository are released "as is" without warranty, support, or guarantee of effectiveness. However, I am open to hearing about any issues found within these files and will be actively maintaining this repository for the foreseeable future. If you find anything noteworthy, let me know and I'll see what I can do about it.
  
  + This is released without license, but also without intent for commercial use. 
