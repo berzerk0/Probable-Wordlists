@@ -1,3 +1,6 @@
+![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
+
+
 # CONTRIBUTIONS
 
 ## Sources
