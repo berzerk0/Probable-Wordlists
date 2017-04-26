@@ -5,13 +5,13 @@
  It relies on having many, many, password files in order to find which are the most popular.
  However, this project will not accept just any source.
   
-If your source contains any other information besides raw passwords - _*we don't want it.*_
+#### If your source contains any other information besides raw passwords - _*we don't want it.*_
 
 We aren't trying to compile a list of people to hack - This is a list of passwords that are not attributable
 to any particular individual for data. NO USER IDS, EMAILS, OR ANY OTHER INFORMATION BESIDES RAW PASSWORDS. FULL STOP.
     
     
-If you harvested your source yourself through trickery, phishing, malware or unauthorized access - _*we don't want it.*_
+##### If you harvested your source yourself through trickery, phishing, malware or unauthorized access - _*we don't want it.*_
     
 This project, nor its author or contributors encourage credential theft for the purpose of improving this project (or any other purpose) While leaks do happen, we do not want any part in encouraging or perpetrating them.
     
