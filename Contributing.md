@@ -27,8 +27,9 @@ This project, nor its author or contributors encourage credential theft for the 
 
 
 ## Bug fixes, Found Errors 
-* Submit an issue, assuming one does not already exist.
+* Create an issue, assuming one does not already exist.
 * Clearly describe the issue including how you found it, and if you intend to fix it
 * Fork the repository on GitHub
 * Push your changes to a topic branch in your fork of the repository.
 * Submit a pull request to the main repository
+* I'll have a look
