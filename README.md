@@ -4,6 +4,7 @@
 ### Rev 1.1 Task List
 * [ ] Make Quickfix for duplicates caused by newline and blankspace characters (not a full fix)
 * [ ] Upload WPA-Chunks
+* [ ] Super-Zip the smaller files
 
 ### Rev 2 List
 * More sources
