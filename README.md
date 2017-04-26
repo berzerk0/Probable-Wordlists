@@ -2,6 +2,7 @@
 ![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
 
 ### Rev 1.1 Task List
+* [ ] Explain methodology
 * [ ] Make Quickfix for duplicates caused by newline and blankspace characters (not a full fix)
 * [ ] Upload WPA-Chunks
 * [ ] Super-Zip the smaller files
