@@ -14,31 +14,23 @@ Not torrents of these files, but you will be soon.
   * Top 95 Thousand - appeared at least 25 times
   * Top 32 Million - appeared at least 10 times
   * Top 258 Million - appeared at least 5 times
-  * A file containing passwords that appeared at least twice will be introduced along with torrents
+  * Top 2Billion - appeared at least 2 times
   
 
-## WPA-Length Folder
+## WPA-Length
   * This folder contains passwords at least 8 characters long, but less than 40 characters.
   * This is the format used by routers protected by WPA/2 security
   * _Note that until Rev 2.0, "WPA-Length" Wordlists may contain lines of 7 characters
  
-##  LINK.txt Files (Do not contain WPA-Length)
-  * Until torrents come out in Rev 1.2 - the large wordlists will be stored here
-  * Mega.nz Links to compressed formats of the files that were too large to store here
-  * Mega.nz Links to the whole folder compreessed in various formats
+##  MegaLinks.md Files (Do not contain WPA-Length)
+  * As a torrent alternative - wordlists will be stored here
+  * Mega.nz Links to compressed formats of the files 
   
-  Here are some links now:
-   * [Compressions of Whole Folder](https://mega.nz/#F!kWJWFJSa!J2L8XL_u0Y423RPF2I2faA) 
-   * [LZMA Compressions of all lists](https://mega.nz/#F!AfogCaSZ!BwHjFrb7VRr5brU71ufJpw)
-   * [tar.gz Compressoins](https://mega.nz/#F!tSQ20bLJ!nYMydaxly8uMHm6lHBLePQ)
-   * [tar.xz Compressions](https://mega.nz/#F!hPZx2K4D!7m9ssDI17HbZwcQvQq8zFA)
-   * _The above links do not contain the WPA-Length Folder_
-   
-   
-   Recommended Unarchivers:
-	Windows: 7Zip
-	Mac: Keka
-	Linux: Command Line, p7zip
+
+## Recommended Unarchivers:
+* Windows: 7Zip
+* Mac: Keka
+* Linux: Command Line, p7zip
   
 
   
