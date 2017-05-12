@@ -1,3 +1,6 @@
+# TORRENTS TO BE UPLOADED BY 20 MAY 2017
+Setting up seedbox now.
+
 # What am I looking at?
 Not torrents of these files, but you will be soon.
 
@@ -5,25 +8,20 @@ Not torrents of these files, but you will be soon.
 This will be fixed in Rev 2.0
 
 ##  THESE ARE THE PASSWORDS, all INTENDED to be WPA Length.  
-
   * The lines in this folder were intended to be at 8-10 characters long - until Rev 2.0 they may include 7-character lines.
-  * Their length is in their title
-  * A file containing passwords that appeared at least twice will be introduced along with torrents
-  
+  * This is the format used by routers protected by WPA/2 security
+  * Their length is in their title - same logic as for the main Real Passwords Folder
  
  
-##  LINK.txt Files
-  * Until torrents come out in Rev 1.2 - the large wordlists will be stored here
-  * Mega.nz Links to compressed formats of the files that were too large to store here
-  * Mega.nz Links to the whole folder compreessed in various formats
-  
+##  MegaLinks.md Files 
+  * As a torrent alternative - wordlists will be stored here
+  * Mega.nz Links to compressed formats of the files 
       
-   Recommended Unarchivers:
-	Windows: 7Zip
-	Mac: Keka
-	Linux: Command Line, p7zip
+## Recommended Unarchivers:
+* Windows: 7Zip
+* Mac: Keka
+* Linux: Command Line, p7zip
   
-
   
 These are **REAL** passwords. Every once in a while, a popular site has a high-profile security leak and passwords are released freely across the internet.
 Some of these passwords can be found on aggregator sites where they are separated from usernames to protect the unfortunate victim.

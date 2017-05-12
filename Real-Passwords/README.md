@@ -17,7 +17,7 @@ Not torrents of these files, but you will be soon.
   * Top 2Billion - appeared at least 2 times
   
 
-## WPA-Length
+## WPA-Length Directory
   * This folder contains passwords at least 8 characters long, but less than 40 characters.
   * This is the format used by routers protected by WPA/2 security
   * _Note that until Rev 2.0, "WPA-Length" Wordlists may contain lines of 7 characters
