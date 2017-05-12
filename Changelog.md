@@ -17,3 +17,12 @@
 
 ### 04 May 2017
 * Made subtle changes to all files to prepare for a BFG (https://rtyley.github.io/bfg-repo-cleaner/) purge. I set it up so that if files were not from the last commit, they would not remain.
+
+### 12 May 2017
+* Added new (actually old) Misc Wordlists from back in the day
+* Fused these into BEncyclopedia
+* Updated Dictionary-Style to have newest links to Mega.nz
+* Files that WILL be in torrents are being uploaded there for normal download
+* Removed Dictionary-Style compressed formats from GitHub storage in favor of Mega.nz for Repo Size control
+* Aim to clean up Real-Passwords in the same way I cleaned up Dictionary-Style by the end of the day.
+* If you're reading this you're watching me do this in nearly real time - but I'm going to have lunch now. So, chill, son.

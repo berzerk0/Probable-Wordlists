@@ -1,11 +1,14 @@
+# TORRENTS TO BE UPLOADED BY 20 MAY 2017
+Setting up seedbox now.
+
 # What am I looking at?
 Not torrents of these files, but you will be soon.
 
 ## What's in these?
 
-__BEncylopedia.md has Mega.nz links to the BEncyclopedia in different compression formats__
+__BEncylopedia-MegaLinks.md has Mega.nz links to the BEncyclopedia in different compression formats__
 
-__Dictionary-Style-Whole.md has Mega,z links to the all the dictionary style files, including the BEncylcopedia, in different compression formats__
+__Dictionary-Style-MegaLinks.md has Mega,z links to the all the dictionary style files, including the BEncylcopedia, in different compression formats__
 
 ### BEncyclopedia.txt
   * A Large Encyclopedic, alphabetically-sorted Wordlist composed of the others in this folder, plus a few that aren't.
