@@ -4,7 +4,8 @@ Not torrents of these files, but you will be soon.
 ## What's in these?
 
 __BEncylopedia.md has links to the BEncyclopedia__
-__Dictionary-Style-Whole.md has links to the all the dictionary style files, including the BEncylcopedia___
+
+__Dictionary-Style-Whole.md has links to the all the dictionary style files, including the BEncylcopedia__
 
 ### BEncyclopedia.txt
   * A Large Encyclopedic, alphabetically-sorted Wordlist composed of the others in this folder, plus a few that aren't.
