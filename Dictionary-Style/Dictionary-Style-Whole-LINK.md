@@ -5,9 +5,9 @@
 * Max 318.9 MB Compressed
   
 ## Recommended Unarchivers:
-Windows: 7Zip
-Mac: Keka
-Linux: Command Line, p7zip
+* Windows: 7Zip
+* Mac: Keka
+* Linux: Command Line, p7zip
   
 
 
