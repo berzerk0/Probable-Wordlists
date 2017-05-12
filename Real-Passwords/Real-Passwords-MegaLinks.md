@@ -1,5 +1,5 @@
 # Real-Password Folder Containing Compressed Files
-Contains all the passwords, but *no files explicitly containing __WPA-Length__ lines*
+Contains all the passwords, but *no files exclusively containing __WPA-Length__ lines*
 
 
   * 18.6 GB Uncompressed
