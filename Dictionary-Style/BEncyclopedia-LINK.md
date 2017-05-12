@@ -1,10 +1,10 @@
-#BEncyclopedia.txt
+# BEncyclopedia.txt
 
 * A Large Encyclopedic, alphabetically-sorted Wordlist composed of the others in this folder, plus a few that aren't.
 * 1 GB Uncompressed
 * Max 299.8 MB Compressed
   
-###Recommended Unarchivers:
+### Recommended Unarchivers:
 * Windows: 7Zip
 * Mac: Keka
 * Linux: Command Line, p7zip
