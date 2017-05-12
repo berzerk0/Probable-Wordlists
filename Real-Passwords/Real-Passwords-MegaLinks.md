@@ -3,12 +3,12 @@ Contains all the passwords, but *__no__ files exclusively containing __WPA-Lengt
 
 
   * 22.0 GB Uncompressed
-  * Max 7.40 MB Compressed
+  * Max 7.40 GB Compressed
   
 ## Recommended Unarchivers:
-	Windows: 7Zip
-	Mac: Keka
-	Linux: Command Line, p7zip
+* Windows: 7Zip
+* Mac: Keka
+* Linux: Command Line, p7zip
   
 ## NOTE THAT INDIVIDUAL FILES CAN BE DOWNLOADED
 ## YOU HAVE THE OPTION TO DOWNLOAD ALL OF THE FILES, OR ONE AT A TIME
