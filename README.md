@@ -56,6 +56,9 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
 
 ### Rev 1.2 Task List
 * [ ] Re-include Largest Wordlists in Repo (passwords appearing at least twice)
+* [ ] Include 'Case Variants' for Dictionary Style Wordlists
+* [ ] Fix Newlines in Dict-Style
+* [ ] Include Secret message somewhere in repository  (not in wordlists)
 * [ ] Create and Add Torrents
 
 
