@@ -58,7 +58,7 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
 * [ ] Re-include Largest Wordlists in Repo (passwords appearing at least twice)
 * [ ] Include 'Case Variants' for Dictionary Style Wordlists
 * [ ] Fix Newlines in Dict-Style
-* [ ] Include Secret message somewhere in repository  (not in wordlists)
+* [x] Include Secret message somewhere in repository  (not in wordlists)
 * [ ] Create and Add Torrents
 
 
