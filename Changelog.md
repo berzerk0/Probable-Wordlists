@@ -32,5 +32,19 @@
 * Expunged older versions of Real-Password files from Mega.nz and their link files on GitHub
 * Updated Links files in both Dictionary-Style and Real-Password directories to contain only links to files that will be in the torrents.
 * Consolidated Links files into prettier .md files that contain more information and customization
-   	      		  	 	   
+   	      	
+### 15 May 2017
+* Added Torrents to Dict-Style Folder
+* Updated Readme for Dict-Style Folder
+* Checked Megalink integrity for Dict-Style and BEncyclopedia
+* Updated Main readme to announce Rev 1.2
+* Updated Main read to discuss cloning vs individual downloads
+* Non-Substantive Edits to logo, license, and contribution guidelines
+* Update Real-Pass Readme
+* Checked Megalink integrity for Real-Pass
+* Checked Megalink integrity for WPA Passwords
+* Included recommended torrent client
+* Checked for spelling and typographic errors
+* Removed Rev 1.1 Tasklist
+* Released Rev 1.2!
 

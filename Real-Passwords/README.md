@@ -1,8 +1,4 @@
-# TORRENTS TO BE UPLOADED BY 20 MAY 2017
-Setting up seedbox now.
-
 # What am I looking at?
-Not torrents of these files, but you will be soon.
 
 ##  THESE ARE THE PASSWORDS!  
 
@@ -15,7 +11,15 @@ Not torrents of these files, but you will be soon.
   * Top 32 Million - appeared at least 10 times
   * Top 258 Million - appeared at least 5 times
   * Top 2Billion - appeared at least 2 times
+
+  * Note that these files are cumulative. I.E, the entirety of the smallest file is contained in the 2nd Smallest file. All of the smaller files are contained in the largest file.
   
+
+### Torrents Folder
+  * Contained within are torrents of the Real-Password Files
+  * Four styles of compression are available LZMA-Zip, 7Z, tar.xz and tar.gz
+  * After downloading, remember to seed to help others get the same access you did.
+  * Mega.nz Links are also provided in the Real-Passwords directory as a more predictable alternative to torrents
 
 ## WPA-Length Directory
   * This folder contains passwords at least 8 characters long, but less than 40 characters.
@@ -32,6 +36,8 @@ Not torrents of these files, but you will be soon.
 * Mac: Keka
 * Linux: Command Line, p7zip
   
+#### Recommended Torrent Client:
+* __Deluge__ gave me the best results in terms of connecting to the seedbox
 
   
 ## Real-Passwords
@@ -95,3 +101,6 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 Enjoy!
 
 
+This file last updated on 15 May, 2017
+
+Most recent commit may be a simple touch, or non-substantive edit to keep all files updated.

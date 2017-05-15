@@ -48,7 +48,7 @@ This project, nor its author or contributors encourage credential theft for the 
 + Copy and redistribute the material in any medium or format
 
 #### Adapt
-+ Remix, transform, and build upon the materialfor any purpose, even commercially.
++ Remix, transform, and build upon the material for any purpose, even commercially.
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
@@ -66,3 +66,8 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 + No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
 
+
+
+This file last updated on 15 May, 2017
+
+Most recent commit may be a simple touch, or non-substantive edit to keep all files updated.

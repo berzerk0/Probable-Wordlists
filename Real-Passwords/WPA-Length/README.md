@@ -1,8 +1,5 @@
-# TORRENTS TO BE UPLOADED BY 20 MAY 2017
-Setting up seedbox now.
-
 # What am I looking at?
-Not torrents of these files, but you will be soon.
+
 
 ### Note that the Files in Rev 1.1 may include lines 7 characters long, due to the newline duplicate issue.
 This will be fixed in Rev 2.0
@@ -12,15 +9,21 @@ This will be fixed in Rev 2.0
   * This is the format used by routers protected by WPA/2 security
   * Their length is in their title - same logic as for the main Real Passwords Folder
  
- 
-##  MegaLinks.md Files 
-  * As a torrent alternative - wordlists will be stored here
-  * Mega.nz Links to compressed formats of the files 
+ * Note that these files are cumulative. I.E, the entirety of the smallest file is contained in the 2nd Smallest file. All of the smaller files are contained in the largest file.
+
+### Torrents Folder
+  * Contained within are torrents of the Real-Password-WPA Files
+  * Four styles of compression are available LZMA-Zip, 7Z, tar.xz and tar.gz
+  * After downloading, remember to seed to help others get the same access you did.
+  * Mega.nz Links are also provided in the WPA-Length directory as a more predictable alternative to torrents
       
 ## Recommended Unarchivers:
 * Windows: 7Zip
 * Mac: Keka
 * Linux: Command Line, p7zip
+
+#### Recommended Torrent Client:
+* __Deluge__ gave me the best results in terms of connecting to the seedbox
   
   
 These are **REAL** passwords. Every once in a while, a popular site has a high-profile security leak and passwords are released freely across the internet.
@@ -74,5 +77,12 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 + No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
 
-Enjoy!
 
+
+__Enjoy!__
+
+
+
+This file last updated on 15 May, 2017
+
+Most recent commit may be a simple touch, or non-substantive edit to keep all files updated.

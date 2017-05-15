@@ -1,39 +1,48 @@
-# TORRENTS TO BE UPLOADED BY 20 MAY 2017
-Setting up seedbox now.
-
 # What am I looking at?
-Not torrents of these files, but you will be soon.
-
-## What's in these?
 
 __BEncylopedia-MegaLinks.md has Mega.nz links to the BEncyclopedia in different compression formats__
 
 __Dictionary-Style-MegaLinks.md has Mega,z links to the all the dictionary style files, including the BEncylcopedia, in different compression formats__
 
-### BEncyclopedia.txt
+### Torrents Folder
+  * Contained within are torrents of the Dictionary-Style Files
+  * Four styles of compression are available LZMA-Zip, 7Z, tar.xz and tar.gz
+  * After downloading, remember to seed to help others get the same access you did.
+  * Mega.nz Links are also provided in the Dictionary-Style directory as a more predictable alternative to torrents
+
+### BEncyclopedia
   * A Large Encyclopedic, alphabetically-sorted Wordlist composed of the others in this folder, plus a few that aren't.
+  * Unlike the Dictionaries, only has one capitalization variant - the standard.
   * 1 GB Uncompressed
   * Max 299.8 MB Compressed
-  * BEncyclopedia-LINK.md a contains Mega.nz links where the BEncyclopedia can be downloaded (torrents coming soon)
   
-### MainEnglishDictionary.txt
-  * A Standard English Dictionary file, but with a ton of words.
-  * 16 MB Uncompressed
+### MainEnglishDictionary
+  * A Standard English Dictionary file, with a
+  * Contains standard, ALL CAPS and all lowercase variants.
+  * 38.2 MB Uncompressed
+  * Max 12.3 MB Compressed
   
 ### IncludesNonEnglishDictionary.txt
-  * A Dictionary composed of words in some of the lagnuages that use the latin alphabet and its variants.
+  * A Dictionary composed of words in some of the languages that use the latin alphabet and its variants.
   * English, German, Spanish, etc.
-  * 65 MB Uncompressed
+  * Contains standard, ALL CAPS and all lowercase variants.
+  * 183 MB Uncompressed
+  * Max 44.1 MB Compressed
 
 ### Misc_Wordlists
   * A pet project of mine I revisit now and again.
   * Includes topical wordlists such as types of dogs, beverages, geographical location, Mythical figures, esoterica, and more
   * I just find these fun - I've used them for Codenames, Drinking Games and randomization schemes.
+  * 912 KB Uncompressed
+  * Max 320KB Compressed
 
 #### Recommended Unarchivers:
 * Windows: 7Zip
 * Mac: Keka
-* Linux: Command Line, p7zip 
+* Linux: Command Line, p7zip
+
+#### Recommended Torrent Client:
+* __Deluge__ gave me the best results in terms of connecting to the seedbox
   
   
 ![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
@@ -53,7 +62,7 @@ __Dictionary-Style-MegaLinks.md has Mega,z links to the all the dictionary style
 + Copy and redistribute the material in any medium or format
 
 #### Adapt
-+ Remix, transform, and build upon the materialfor any purpose, even commercially.
++ Remix, transform, and build upon the material for any purpose, even commercially.
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
@@ -71,5 +80,12 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 + No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
 
-Enjoy!
 
+
+__Enjoy!__
+
+
+
+This file last updated on 15 May, 2017
+
+Most recent commit may be a simple touch, or non-substantive edit to keep all files updated.

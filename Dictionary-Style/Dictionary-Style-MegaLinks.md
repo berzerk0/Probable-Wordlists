@@ -1,8 +1,8 @@
 # Entire Dictionary-Style Folder
 
-* All the Dictionary-Style Wordlist Compressed in Three Different Formats
-* 1.07 GB Uncompressed
-* Max 318.9 MB Compressed
+* All the Dictionary-Style Wordlist Compressed in Four Different Formats
+* 1.22 GB Uncompressed
+* Max 356.6 MB Compressed
   
 ## Recommended Unarchivers:
 * Windows: 7Zip
@@ -11,10 +11,17 @@
   
 
 
-__tar.gz__, 319.MB: *https://mega.nz/#F!QaATETwC!mefq35j4a0AoteuVWOHm9A*
+__tar.gz__, 356.6 MB: *https://mega.nz/#F!QaATETwC!mefq35j4a0AoteuVWOHm9A*
 
-__tar.xz__, 252.9MB: *https://mega.nz/#F!lK4xxZJA!qjFuEK2AvhsSa4Hooaefjg*
+__tar.xz__, 282.2 MB: *https://mega.nz/#F!lK4xxZJA!qjFuEK2AvhsSa4Hooaefjg*
 
-__7z__, 247.2MB: *https://mega.nz/#F!FDJzTSyY!8LFUzaiVXo1fU00FAD8bBA*
+__7z__, 273.8 MB: *https://mega.nz/#F!FDJzTSyY!8LFUzaiVXo1fU00FAD8bBA*
 
-__LZMA Zip__, 244.9: *https://mega.nz/#F!AOISwTxa!S0cdIx34R7uUF7OINkfl2g*
+__LZMA Zip__, 274.2 MB: *https://mega.nz/#F!AOISwTxa!S0cdIx34R7uUF7OINkfl2g*
+
+
+
+
+This file last updated on 15 May, 2017
+
+Most recent commit may be a simple touch, or non-substantive edit to keep all files updated.

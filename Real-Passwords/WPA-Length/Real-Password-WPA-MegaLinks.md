@@ -19,8 +19,11 @@ __tar.gz__, 6.28GB: *https://mega.nz/#F!ZWx0RaaD!qdBWbNuZ46l9T5frFP6Tvg*
 
 __tar.xz__, 4.42GB: *https://mega.nz/#F!gCwWjCiR!FeQK2YW0r1-MUlAbM1P8NQ*
 
-__7z__, 4.41GB: *https://mega.nz/#F!cSQzXCjI!z57tPjcPhynq8jNqz3dlyQ*
+__7z__, 4.41 GB: *https://mega.nz/#F!cSQzXCjI!z57tPjcPhynq8jNqz3dlyQ*
 
-__LZMA-ZIP__, 4.38GB: *https://mega.nz/#F!FSgERQxZ!vZI4VXk342d6cjLMGWF2NQ*
+__LZMA-ZIP__, 4.39 GB: *https://mega.nz/#F!FSgERQxZ!vZI4VXk342d6cjLMGWF2NQ*
 
 
+This file last updated on 15 May, 2017
+
+Most recent commit may be a simple touch, or non-substantive edit to keep all files updated.

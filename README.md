@@ -1,10 +1,10 @@
-### To Potential Cloners and Master-Zip Downloaders - Rev 1.1 is here! Easy to clone!
-Instead of hundreds of smaller files, there are handful Mega.nz links to the Wordlists. Torrents in 1.2.
-The repository is no longer more than 20GB! Zip download of 5.6MB, Clone of 74.7MB. Clone will be reduced further after 1.2
+### Rev 1.2 is here! Torrents are here! Seed to support the project!
+
+### To potential cloners and zip-downloaders:
+This repository does not contain code, but is a group of lists. More accurately, it is a set of links TO a group a lists. As a result, a clone or zip download is possible, but may not be necessary to get the files you need.
 
 
 ![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
-
 
 
 # Probable Wordlists
@@ -13,7 +13,7 @@ Wordlists sorted by popularity originally created for password generation and te
 ### Why slog through an encyclopedic, alphabetized wordlist when you can start with the words people are most likely to use?
 #### Methodology - The Why and How
 
- While I was able to locate a few Password Wordlists that were sorted by popularity, the vast majority of lists, especially the larger lists, were sorted alphabetically. This seems like a major practicality flaw! If we assume that the most common password is "password," and we are performing a dictionary attack using an English dictionary, we are going to have to slog from "aardvark" through "passover" to get to "password." Now I don't know off the top of my head just how common "aardvark" is as a password - but we could be wasting a lot of time by not starting with the most common password on our list!
+ While I was able to locate a few Password Wordlists that were sorted by popularity, the vast majority of lists, especially the larger lists, were sorted alphabetically. This seems like a major practicality flaw! If we assume that the most common password is "password," and we are performing a dictionary attack using an English dictionary, we are going to have to slog from "aardvark" through "passover" to get to "password." I don't know off the top of my head just how common "aardvark" is as a password - but we could be wasting a lot of time by not starting with the most common password on our list!
 
  I went to SecLists, Weakpass, and Hashes.org and downloaded nearly every single Wordlist containing real passwords I could find. These lists were huge, and I ended up with over 80 GB actual, human-generated and used passwords. These were split up among over 350 files of varying length, sorting scheme, character encoding, origin and other properties. I sorted these files, removed duplicates from within the files themselves, and prepared to join them all together.
 
@@ -47,23 +47,15 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
 
 ## Tasklist and Plans
 
-### Rev 1.1 Task List
-* [x] Explain methodology
-* [x] Make Quick-fix for duplicates caused by newline and blankspace characters (not a full fix, more of a temporary patch)
-* [x] Compress the Files(LZMA-Zip, tar.gz, tar.xz)
-* [x] Removed huge files making the repo hard to clone.
-
-
 ### Rev 1.2 Task List
-* [ ] Re-include Largest Wordlists in Repo (passwords appearing at least twice)
-* [ ] Include 'Case Variants' for Dictionary Style Wordlists
-* [ ] Fix Newlines in Dict-Style
+* [x] Re-include Largest Wordlists in Repo (passwords appearing at least twice)
+* [x] Include 'Case Variants' for Dictionary Style Wordlists
+* [x] Fix Newlines in Dict-Style
 * [x] Include Secret message somewhere in repository  (not in wordlists)
-* [ ] Create and Add Torrents
+* [x] Create and Add Torrents
 
-
-### Rev 2.0 Plan
-* Include truly acccurate WPA-Length sorting
+### Rev 2.0 Plan - Expected June 2017
+* Include truly accurate WPA-Length sorting
 * More sources (Contributions open, with strict terms. See Contributions page)
 * Bigger sources
 * Non-ASCII Sources
@@ -102,7 +94,7 @@ All lines in these files were obtained through freely available means.
 + Copy and redistribute the material in any medium or format
 
 #### Adapt
-+ Remix, transform, and build upon the materialfor any purpose, even commercially.
++ Remix, transform, and build upon the material for any purpose, even commercially.
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
