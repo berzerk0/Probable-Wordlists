@@ -79,7 +79,11 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
  * Sources like [Weakpass](https://weakpass.com/), [Crackstation](https://crackstation.net/), [Hashkiller](https://hashkiller.co.uk/) and [Hashes.Org](https://hashes.org/) for inspiration and lists.
  * [Hack-With-Github](https://github.com/Hack-with-Github) for including this repository on the [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) repository. 
 
-
+### Coverage 
+  * [Redeszone.Net's Rubén Velasco](https://www.redeszone.net/2017/04/27/probable-wordlists-5000-millones-contrasenas/)
+  * [juejin.im (Gold Nuggets)](https://juejin.im/entry/5901ea8c8d6d810058bb35df)
+  
+  Thanks for the shout-outs!
 
 ## Disclaimer and License
  + These lists are for LAWFUL, ETHICAL AND EDUCATIONAL PURPOSES ONLY.
