@@ -61,12 +61,12 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
 * [x] Create and Add Torrents
 
 ### Rev 2.0 Plan - Expected June 2017
-[ ] Include truly accurate WPA-Length sorting
-[ ] More sources (Contributions open, with strict terms. See Contributions page)
-[x] Bigger sources
-[ ] Non-ASCII Sources
-[ ] Specialized lists compiled from sources themselves
-[ ] Totally Recompile wordlists for improved accuracy, no duplicates from the get-go.
+* [ ] Include truly accurate WPA-Length sorting
+* [ ] More sources (Contributions open, with strict terms. See Contributions page)
+* [x] Bigger sources
+* [ ] Non-ASCII Sources
+* [ ] Specialized lists compiled from sources themselves
+* [ ] Totally Recompile wordlists for improved accuracy, no duplicates from the get-go.
 
 ### Undetermined Future Plans
 * [x] Come up with poetic name for 'things that'd be cool that I'm not sure when I'll do'
