@@ -80,6 +80,9 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
  * [Hack-With-Github](https://github.com/Hack-with-Github) for including this repository on the [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) repository. 
 
 ### People Are Talking About Probable-Wordlists?! 
+  * [The Legendary AIRCRACK! I'm honored.](https://www.aircrack-ng.org/doku.php?id=faq
+  * [Hackerone](https://www.hackerone.com/zerodaily/2017-04-26)
+  * [@HackwithGithub](https://twitter.com/HackwithGithub/status/857210157473841152)
   * [Redeszone.Net's Rubén Velasco (Spanish) ](https://www.redeszone.net/2017/04/27/probable-wordlists-5000-millones-contrasenas/)
   * [juejin.im (Gold Nuggets) (Chinese)](https://juejin.im/entry/5901ea8c8d6d810058bb35df)
   * [Sekurak.pl (Polish)](https://sekurak.pl/2-miliardy-hasel-na-githubie-24gb-mega-slownik-z-realnych-wyciekow/)
