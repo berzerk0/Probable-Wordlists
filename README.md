@@ -79,9 +79,12 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
  * Sources like [Weakpass](https://weakpass.com/), [Crackstation](https://crackstation.net/), [Hashkiller](https://hashkiller.co.uk/) and [Hashes.Org](https://hashes.org/) for inspiration and lists.
  * [Hack-With-Github](https://github.com/Hack-with-Github) for including this repository on the [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) repository. 
 
-### Coverage 
-  * [Redeszone.Net's Rubén Velasco](https://www.redeszone.net/2017/04/27/probable-wordlists-5000-millones-contrasenas/)
-  * [juejin.im (Gold Nuggets)](https://juejin.im/entry/5901ea8c8d6d810058bb35df)
+### People Are Talking About Probable-Wordlists?! 
+  * [Redeszone.Net's Rubén Velasco (Spanish) ](https://www.redeszone.net/2017/04/27/probable-wordlists-5000-millones-contrasenas/)
+  * [juejin.im (Gold Nuggets) (Chinese)](https://juejin.im/entry/5901ea8c8d6d810058bb35df)
+  * [Sekurak.pl (Polish)](https://sekurak.pl/2-miliardy-hasel-na-githubie-24gb-mega-slownik-z-realnych-wyciekow/)
+  * [HackPlayers.com Vicente Motos (Spanish) ](http://www.hackplayers.com/2017/04/github-con-5000-millones-de-passwords.html)
+  * [HVAZone.com (Vietnamese) ](http://hvazone.com/5-ty-password-sap-xep-theo-thu-tu.1986.html)
   
   Thanks for the shout-outs!
 
