@@ -26,8 +26,9 @@ Wordlists sorted by popularity originally created for password generation and te
   Some of these lists were composed of the other lists, and some were exact duplicates. I took care to remove any exact duplicate files - we didn't need to have any avoidable false positives. __*If a password was found across multiple files, I considered this to be an approximation of its popularity.*__ If an entry was found in 5 files, it wasn't too popular. If an entry could be found in 300 files, it was very popular. Using Unix commands, I concatenated all the files into one giant file representing keys to over 4 billion secret areas on the web, and sorted them by number of appearances in the single file. From this, I was able to create a large wordlist sorted by popularity, not the alphabet.
 
  
-__*In addition to the WORLD'S most common passwords - why not try a Wordlist Laser-Guided to a particular person?
-(Check out my other project, BEWGor)[https://github.com/berzerk0/BEWGor)*__
+__*In addition to the WORLD'S most common passwords - why not try a Wordlist Laser-Guided to a particular person?*__
+
+__*[Check out my other project, BEWGor](https://github.com/berzerk0/BEWGor)*__
 
 ## Real-Passwords
 These are **REAL** passwords. 
