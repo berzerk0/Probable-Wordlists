@@ -1,8 +1,8 @@
-Seedbox seems to be having a problem - there may be an issue with the torrents for a bit while I work it out.
+## Notice: 11 Jun 2017
+
+Seedbox seems to be having a problem - torrents will be down for a bit while I work it out.
 
 Apologies for the inconvenience, files can still be downloaded via Mega.Nz links.
-
-Check the folders for files with the _**-MegaLinks.md**_ suffix, or just see below.
 
 [Real Passwords](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/Real-Passwords-MegaLinks.md)
 
