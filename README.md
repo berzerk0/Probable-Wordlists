@@ -1,4 +1,17 @@
-### Rev 1.2 is live! Torrents are live! Please Help Support the Project by [seeding these files](https://github.com/berzerk0/Probable-Wordlists/releases/tag/v1.2)
+Seedbox seems to be having a problem - there may be an issue with the torrents for a bit while I work it out.
+
+Apologies for the inconvenience, files can still be downloaded via Mega.Nz links.
+
+Check the folders for files with the _**-MegaLinks.md**_ suffix, or just see below.
+
+[Real Passwords](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/Real-Passwords-MegaLinks.md)
+
+[Real Passwords WPA Length](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/WPA-Length/Real-Password-WPA-MegaLinks.md)
+
+[Dictionary-Style](https://github.com/berzerk0/Probable-Wordlists/blob/master/Dictionary-Style/Dictionary-Style-MegaLinks.md)
+
+
+### Rev 1.2 is live! Torrents are *Down Temporarily, sorry* Please Help Support the Project by [seeding these files](https://github.com/berzerk0/Probable-Wordlists/releases/tag/v1.2) 
 
 ### To Cloners and Zip Downloaders:
 This repository does not contain code, but is a group of lists.
