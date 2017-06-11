@@ -5,7 +5,7 @@
 Pipal was run on a list of the __Top 32 Most Popular Passwords__ - not the largest list in the repo, 
 but sizable enough to encompass notable trends.
 
-Passwords included in this analysis appeared at least 10 times in the Revision 1 Files.
+Passwords included in this analysis appeared at least 10 times in the Rev 1.2 Files.
 
 I've organized the data into charts that easily demonstrate trends.
 Each chart also contains insights and actionable conclusions drawn from the data
