@@ -1,4 +1,4 @@
-### Rev 1.2 is live! Torrents are live! Seed to support the project!
+### Rev 1.2 is live! Torrents are live! Please Help Support the Project by [seeding these files](https://github.com/berzerk0/Probable-Wordlists/releases/tag/v1.2)
 
 ### To Cloners and Zip Downloaders:
 This repository does not contain code, but is a group of lists.
