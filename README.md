@@ -103,6 +103,8 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
   * [HackPlayers.com Vicente Motos (Spanish) ](http://www.hackplayers.com/2017/04/github-con-5000-millones-de-passwords.html)
   * [HVAZone.com (Vietnamese) ](http://hvazone.com/5-ty-password-sap-xep-theo-thu-tu.1986.html)
   * [Hacker News](https://news.ycombinator.com/item?id=14530250)
+  * [Centrify's Ben Rice](https://blog.centrify.com/do-you-know-how-easy-is-it-to-guess-your-password-hint-you-dont-want-to-read-this/)
+  * [Featured as a Peerlyst Resource](https://www.peerlyst.com/posts/probable-wordlists-up-to-20-gb-of-real-leaked-passwords-sorted-by-popularity-not-alphabetically-ben-berkowitz?trk=explore_page_resources_recent)
   
   Thanks for the shout-outs!
 
