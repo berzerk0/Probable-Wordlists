@@ -102,6 +102,7 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
   * [Sekurak.pl (Polish)](https://sekurak.pl/2-miliardy-hasel-na-githubie-24gb-mega-slownik-z-realnych-wyciekow/)
   * [HackPlayers.com Vicente Motos (Spanish) ](http://www.hackplayers.com/2017/04/github-con-5000-millones-de-passwords.html)
   * [HVAZone.com (Vietnamese) ](http://hvazone.com/5-ty-password-sap-xep-theo-thu-tu.1986.html)
+  * [Hacker News](https://news.ycombinator.com/item?id=14530250)
   
   Thanks for the shout-outs!
 
