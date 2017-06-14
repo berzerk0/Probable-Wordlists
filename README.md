@@ -1,7 +1,7 @@
 
 ### Rev 1.2 is live! Torrents are (mostly)\* back up! Please Help Support the Project by [seeding these files](https://github.com/berzerk0/Probable-Wordlists/releases/tag/v1.2) 
 
-\*[Real-WPA-Passwords-Rev1_2-targz](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/Real-Passwords/WPA-Length/WPA-Length%20Rev%201.2%20Torrents/Real-WPA-Passwords-Rev1_2-targz.torrent) and [Dict-Style-Rev1_2-LZMA-Zip](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/Dictionary-Style/Dictionary-Style%20Rev%201.2%20Torrents/Dict-Style-Rev1_2-LZMA-Zip.torrent) are still sluggish. I'm trying to throw uploads at them but perhaps there is a deeper issue - I am continuing to diagnose. 
+\*[Real-WPA-Passwords-Rev1_2-targz](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/Real-Passwords/WPA-Length/WPA-Length%20Rev%201.2%20Torrents/Real-WPA-Passwords-Rev1_2-targz.torrent) is still sluggish. I'm trying to throw uploads at it but perhaps there is a deeper issue - I am continuing to diagnose. 
 **However, every wordlist can be downloaded via torrent in at least 3 compressed formats at this time.**
 
 ### To Cloners and Zip Downloaders:
@@ -95,7 +95,8 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
   * [HVAZone.com (Vietnamese) ](http://hvazone.com/5-ty-password-sap-xep-theo-thu-tu.1986.html)
   * [Hacker News](https://news.ycombinator.com/item?id=14530250)
   * [Centrify's Ben Rice](https://blog.centrify.com/do-you-know-how-easy-is-it-to-guess-your-password-hint-you-dont-want-to-read-this/)
-  * [Featured as a Peerlyst Resource](https://www.peerlyst.com/posts/probable-wordlists-up-to-20-gb-of-real-leaked-passwords-sorted-by-popularity-not-alphabetically-ben-berkowitz?trk=explore_page_resources_recent)
+  * [Featured as a Peerlyst Resource](https://tinyurl.com/ybs9aak7)
+  * [1024Megas.com (Spanish)](http://www.1024megas.com/p/blog-page.html)
   
   Thanks for the shout-outs!
 
