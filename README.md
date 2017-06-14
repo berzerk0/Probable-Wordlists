@@ -95,7 +95,7 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
   * [HVAZone.com (Vietnamese) ](http://hvazone.com/5-ty-password-sap-xep-theo-thu-tu.1986.html)
   * [Hacker News](https://news.ycombinator.com/item?id=14530250)
   * [Centrify's Ben Rice](https://blog.centrify.com/do-you-know-how-easy-is-it-to-guess-your-password-hint-you-dont-want-to-read-this/)
-  * [Featured as a Peerlyst Resource](https://tinyurl.com/ybs9aak7)
+  * Featured as a Peerlyst Resource
   * [1024Megas.com (Spanish)](http://www.1024megas.com/p/blog-page.html)
   
   Thanks for the shout-outs!
