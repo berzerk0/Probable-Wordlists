@@ -1,17 +1,8 @@
-## Notice: 11 Jun 2017
 
-Seedbox seems to be having a problem - torrents will be down for a bit while I work it out.
+### Rev 1.2 is live! Torrents are (mostly)\* back up! Please Help Support the Project by [seeding these files](https://github.com/berzerk0/Probable-Wordlists/releases/tag/v1.2) 
 
-Apologies for the inconvenience, files can still be downloaded via Mega.Nz links.
-
-[Real Passwords](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/Real-Passwords-MegaLinks.md)
-
-[Real Passwords WPA Length](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/WPA-Length/Real-Password-WPA-MegaLinks.md)
-
-[Dictionary-Style](https://github.com/berzerk0/Probable-Wordlists/blob/master/Dictionary-Style/Dictionary-Style-MegaLinks.md)
-
-
-### Rev 1.2 is live! Torrents are *Down Temporarily, sorry* Please Help Support the Project by [seeding these files](https://github.com/berzerk0/Probable-Wordlists/releases/tag/v1.2) 
+\*[Real-WPA-Passwords-Rev1_2-targz](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/Real-Passwords/WPA-Length/WPA-Length%20Rev%201.2%20Torrents/Real-WPA-Passwords-Rev1_2-targz.torrent) and [Dict-Style-Rev1_2-LZMA-Zip](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/Dictionary-Style/Dictionary-Style%20Rev%201.2%20Torrents/Dict-Style-Rev1_2-LZMA-Zip.torrent) are still sluggish. I'm trying to throw uploads at them but perhaps there is a deeper issue - I am continuing to diagnose. 
+**However, every wordlist can be downloaded via torrent in at least 3 compressed formats at this time.**
 
 ### To Cloners and Zip Downloaders:
 This repository does not contain code, but is a group of lists.
