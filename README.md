@@ -85,7 +85,8 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
  * [Hack-With-Github](https://github.com/Hack-with-Github) for including this repository on the [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) repository. 
 
 ### People Are Talking About Probable-Wordlists?! 
-  * [The Legendary AIRCRACK! I'm honored.](https://www.aircrack-ng.org/doku.php?id=faq)
+  * [The Legendary AIRCRACK!](https://www.aircrack-ng.org/doku.php?id=faq)
+  * [Pinned Tweet on the also legendary L0phtcrack!](https://twitter.com/L0phtCrackLLC/status/874266579516747777)
   * [Hackerone](https://www.hackerone.com/zerodaily/2017-04-26)
   * [@HackwithGithub](https://twitter.com/HackwithGithub/status/857210157473841152)
   * [Redeszone.Net's Rubén Velasco (Spanish) ](https://www.redeszone.net/2017/04/27/probable-wordlists-5000-millones-contrasenas/)
@@ -95,7 +96,7 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
   * [HVAZone.com (Vietnamese) ](http://hvazone.com/5-ty-password-sap-xep-theo-thu-tu.1986.html)
   * [Hacker News](https://news.ycombinator.com/item?id=14530250)
   * [Centrify's Ben Rice](https://blog.centrify.com/do-you-know-how-easy-is-it-to-guess-your-password-hint-you-dont-want-to-read-this/)
-  * Featured as a Peerlyst Resource
+  * Featured as a Peerlyst Resource, Won [Blog of the Week, Jun 15 2017](https://www.peerlyst.com/posts/peerlyst-choice-weekly-blogger-contest-peerlyst-5?trk=company_page_posts_panel)
   * [1024Megas.com (Spanish)](http://www.1024megas.com/p/blog-page.html)
   * [Microservicios @Alvy (Spanish)](http://www.microsiervos.com/archivo/seguridad/cosas-aprender-analisis-32-millones-contrasenas.html)
   
