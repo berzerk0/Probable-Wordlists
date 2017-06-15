@@ -97,6 +97,7 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
   * [Centrify's Ben Rice](https://blog.centrify.com/do-you-know-how-easy-is-it-to-guess-your-password-hint-you-dont-want-to-read-this/)
   * Featured as a Peerlyst Resource
   * [1024Megas.com (Spanish)](http://www.1024megas.com/p/blog-page.html)
+  * [Microservicios [@Alvy](https://twitter.com/alvy) (Spanish)](http://www.microsiervos.com/archivo/seguridad/cosas-aprender-analisis-32-millones-contrasenas.html)
   
   Thanks for the shout-outs!
 
