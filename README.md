@@ -1,8 +1,4 @@
-
-### Rev 1.2 is live! Torrents are (mostly)\* back up! Please Help Support the Project by [seeding these files](https://github.com/berzerk0/Probable-Wordlists/releases/tag/v1.2) 
-
-\*[Real-WPA-Passwords-Rev1_2-targz](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/Real-Passwords/WPA-Length/WPA-Length%20Rev%201.2%20Torrents/Real-WPA-Passwords-Rev1_2-targz.torrent) is still sluggish. I'm trying to throw uploads at it but perhaps there is a deeper issue - I am continuing to diagnose. 
-**However, every wordlist can be downloaded via torrent in at least 3 compressed formats at this time.**
+### Please Help Support the Project by [seeding these files](https://github.com/berzerk0/Probable-Wordlists/releases/tag/v1.2) 
 
 ### To Cloners and Zip Downloaders:
 This repository does not contain code, but is a group of lists.
@@ -58,20 +54,14 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
 
 ## Tasklist and Plans
 
-### Rev 1.2 Task List
-* [x] Re-include Largest Wordlists in Repo (passwords appearing at least twice)
-* [x] Include 'Case Variants' for Dictionary Style Wordlists
-* [x] Fix Newlines in Dict-Style
-* [x] Include Secret message somewhere in repository  (not in wordlists)
-* [x] Create and Add Torrents
-
-### Rev 2.0 Plan - Expected June 2017
+### Rev 2.0 Plan - Expected Mid-July 2017
 * [ ] Include truly accurate WPA-Length sorting
-* [ ] More sources (Contributions open, with strict terms. See Contributions page)
+* [x] More sources (This is what is taking the most time)
 * [x] Bigger sources
 * [ ] Non-ASCII Sources
 * [ ] Specialized lists compiled from sources themselves
 * [ ] Totally Recompile wordlists for improved accuracy, no duplicates from the get-go.
+* [ ] Include Counts for some files
 
 ### Undetermined Future Plans
 * [x] Come up with poetic name for 'things that'd be cool that I'm not sure when I'll do'

@@ -48,3 +48,12 @@
 * Removed Rev 1.1 Tasklist
 * Released Rev 1.2!
 
+#### 17 June 2017
+* I added a bunch of Shout-Outs, since there was a huge spike in popularity after I posted this on hackernews. There were probably a dozen or so edits since the last edit to the changelog
+* All edits since 15 May 2017 have been to README.md, except for the inclusion of...
+* Trend Analysis was added __23 May 2017__
+* Torrents had a problem on June 11 after the popularity spike. “I guess that’s what you call one of them good problems.”
+* Added “Include Count List” to Rev 2 Tasklist.
+* Cleaned up README.md a bit
+
+
