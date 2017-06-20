@@ -1,3 +1,16 @@
+
+### Torrents are down again as of 19 Jun 2017 - may be a few days. Apologies for any inconvenience.
+
+Again, all files can be downloaded via Mega.nz links 
+Check the folders for files with the _**-MegaLinks.md**_ suffix, or just see below.
+
+[Real Passwords](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/Real-Passwords-MegaLinks.md)
+
+[Real Passwords WPA Length](https://github.com/berzerk0/Probable-Wordlists/blob/master/Real-Passwords/WPA-Length/Real-Password-WPA-MegaLinks.md)
+
+[Dictionary-Style](https://github.com/berzerk0/Probable-Wordlists/blob/master/Dictionary-Style/Dictionary-Style-MegaLinks.md)
+
+
 ### Please Help Support the Project by [seeding these files](https://github.com/berzerk0/Probable-Wordlists/releases/tag/v1.2) 
 
 ### To Cloners and Zip Downloaders:
