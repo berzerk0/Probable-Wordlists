@@ -89,6 +89,7 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
   * Featured as a Peerlyst Resource, Won [Blog of the Week, Jun 15 2017](https://www.peerlyst.com/posts/peerlyst-choice-weekly-blogger-contest-peerlyst-5?trk=company_page_posts_panel)
   * [1024Megas.com (Spanish)](http://www.1024megas.com/p/blog-page.html)
   * [Microservicios @Alvy (Spanish)](http://www.microsiervos.com/archivo/seguridad/cosas-aprender-analisis-32-millones-contrasenas.html)
+  * [Bupw - Basic User Password Warning Microservice](https://github.com/ScullWM/Bupw)
   
   Thanks for the shout-outs!
 
