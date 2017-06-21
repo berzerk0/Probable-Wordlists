@@ -1,9 +1,10 @@
 ### Please Help Support the Project by [seeding these files](https://github.com/berzerk0/Probable-Wordlists/releases/tag/v1.2) 
 
+Torrent Note: Before 21 Jun 2017, 4 compression formats for each wordlist variety were included: .7z, -LZMA.zip, .tar.gz and .tar.xz . Now, there are only .7z and .tar.gz files. The seeding performance was little diluted due to the presence of these redundant files. If you wish, you can still download the .tar.xz and -LZMA.zip files from the Mega.nz links, but *in future releases, only .7z and .tar.gz will be created.*
+
 ### To Cloners and Zip Downloaders:
-This repository does not contain code, but is a group of lists.
-More accurately, it is a set of links TO a group a lists.
-As a result, a clone or zip download is possible, but may not be necessary to get the files you need.
+This repository does not contain code, links to a group of lists.
+A clone or zip download is possible, but *may not be necessary to get the files you need*.
 
 ### Check out the [Password Trend Analysis](https://github.com/berzerk0/Probable-Wordlists/blob/master/Trend-Analysis.md) - and learn!
 I visualized the trends of passwords that appeared 10 times or more in analysis.
@@ -75,6 +76,7 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
  * [Hack-With-Github](https://github.com/Hack-with-Github) for including this repository on the [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) repository. 
 
 ### People Are Talking About Probable-Wordlists?! 
+  *  Probable-Wordlists has made the [Security Now Podcast!](https://youtu.be/DC3RsyrCYfw?t=1h8m7s) Shout out to Steve Gibson and Leo Laporte!
   * [The Legendary AIRCRACK!](https://www.aircrack-ng.org/doku.php?id=faq)
   * [Pinned Tweet on the also legendary L0phtcrack!](https://twitter.com/L0phtCrackLLC/status/874266579516747777)
   * [Hackerone](https://www.hackerone.com/zerodaily/2017-04-26)
@@ -89,6 +91,7 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
   * Featured as a Peerlyst Resource, Won [Blog of the Week, Jun 15 2017](https://www.peerlyst.com/posts/peerlyst-choice-weekly-blogger-contest-peerlyst-5?trk=company_page_posts_panel)
   * [1024Megas.com (Spanish)](http://www.1024megas.com/p/blog-page.html)
   * [Microservicios @Alvy (Spanish)](http://www.microsiervos.com/archivo/seguridad/cosas-aprender-analisis-32-millones-contrasenas.html)
+  * “Dzięki” to [wykop.pl users](https://www.wykop.pl/)
   
   Thanks for the shout-outs!
 

@@ -61,4 +61,9 @@
 * Seedbox now only supports .7z and .tar.gz formats
 * This will hopefully be more efficient
 
+#### 21 Jun 2017
+* Removed torrent files for .tar.xz and -LZMA.zip
+* README reflects this
+* Added 2 shoutouts, wykop.pl and the Security Now Podcast
+
 
