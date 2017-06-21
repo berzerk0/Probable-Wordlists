@@ -56,4 +56,9 @@
 * Added “Include Count List” to Rev 2 Tasklist.
 * Cleaned up README.md a bit
 
+#### 20 Jun 2017
+* Seedbox goes down, seedbox comes up
+* Seedbox now only supports .7z and .tar.gz formats
+* This will hopefully be more efficient
+
 
