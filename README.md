@@ -1,6 +1,6 @@
 ### Please Help Support the Project by [seeding these files](https://github.com/berzerk0/Probable-Wordlists/releases/tag/v1.2) 
 
-Torrent Note: Before 21 Jun 2017, 4 compression formats for each wordlist variety were included: .7z, -LZMA.zip, .tar.gz and .tar.xz . Now, there are only .7z and .tar.gz files. The seeding performance was little diluted due to the presence of these redundant files. If you wish, you can still download the .tar.xz and -LZMA.zip files from the Mega.nz links, but *in future releases, only .7z and .tar.gz will be created.*
+__Torrent Note:__ Before 21 Jun 2017, 4 compression formats for each wordlist variety were included: .7z, -LZMA.zip, .tar.gz and .tar.xz . Now, there are only .7z and .tar.gz files. The seeding performance was little diluted due to the presence of these redundant files. If you wish, you can still download the .tar.xz and -LZMA.zip files from the Mega.nz links, but *in future releases, only .7z and .tar.gz will be created.*
 
 ### To Cloners and Zip Downloaders:
 This repository does not contain code, links to a group of lists.
