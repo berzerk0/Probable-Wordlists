@@ -66,4 +66,8 @@
 * README reflects this
 * Added 2 shoutouts, wykop.pl and the Security Now Podcast
 
+#### 22 Jun 2017
+* Added “Projects Using Probable-Wordlists” Section to README
+* Added ScullMW’s BUPW to this section
+
 
