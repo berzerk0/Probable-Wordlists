@@ -97,6 +97,7 @@ I found most (if not all) of these mentions by simply searching for the project 
 * [1024Megas.com (Spanish)](http://www.1024megas.com/p/blog-page.html)
 * [Microservicios @Alvy (Spanish)](http://www.microsiervos.com/archivo/seguridad/cosas-aprender-analisis-32-millones-contrasenas.html)
 * “Dzięki” to [wykop.pl users](https://www.wykop.pl/)
+* [SummitRoute Downclimb, 2 July 2017](https://summitroute.com/blog/2017/07/02/downclimb/)
   
 Thanks for the shout-outs!
   
