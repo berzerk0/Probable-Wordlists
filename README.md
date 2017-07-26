@@ -98,6 +98,7 @@ I found most (if not all) of these mentions by simply searching for the project 
 * [Microservicios @Alvy (Spanish)](http://www.microsiervos.com/archivo/seguridad/cosas-aprender-analisis-32-millones-contrasenas.html)
 * “Dzięki” to [wykop.pl users](https://www.wykop.pl/)
 * [SummitRoute Downclimb, 2 July 2017](https://summitroute.com/blog/2017/07/02/downclimb/)
+* [Security Newsletter, 20 July 2017](https://securitynewsletter.co/issues/34)
   
 Thanks for the shout-outs!
   
