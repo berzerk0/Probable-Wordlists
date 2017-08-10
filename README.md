@@ -3,7 +3,7 @@
 __Torrent Note:__ Before 21 Jun 2017, 4 compression formats for each wordlist variety were included: .7z, -LZMA.zip, .tar.gz and .tar.xz . Now, there are only __.7z__ and __.tar.gz__ files. The seeding performance was little diluted due to the presence of these redundant files. If you wish, you can still download the .tar.xz and -LZMA.zip files from the Mega.nz links, but *in future releases, only .7z and .tar.gz will be created.*
 
 ### To Cloners and Zip Downloaders:
-This repository does not contain code, links to a group of lists.
+This repository does not contain code, but links to a group of lists.
 A clone or zip download is possible, but *may not be necessary to get the files you need*.
 
 ### Check out the [Password Trend Analysis](https://github.com/berzerk0/Probable-Wordlists/blob/master/Trend-Analysis.md) - and learn!
