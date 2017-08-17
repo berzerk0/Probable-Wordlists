@@ -24,7 +24,7 @@
 ## WPA-Length Directory
   * This folder contains passwords at least 8 characters long, but less than 40 characters.
   * This is the format used by routers protected by WPA/2 security
-  * _Note that until Rev 2.0, "WPA-Length" Wordlists may contain lines of 7 characters
+  * _Note that until Rev 2.0, "WPA-Length" Wordlists may contain lines of 7 characters - see below for details
  
 ##  MegaLinks.md Files (Do not contain WPA-Length)
   * As a torrent alternative - wordlists will be stored here
@@ -51,7 +51,10 @@ The files in this folder come from https://github.com/danielmiessler/SecLists, h
  * A more inclusive, and thus, more accurate list is in the works.
 
 *NOTE THAT THE DUE TO THE NEWLINE DUPLICATES ISSUE, 'WPA-Length' LISTS MAY INCLUDE LINES OF 7 CHARACTERS*
+ * Files in the WPA-Length Directory in this repo have been __CLEANED__ of lines under 8 characters.
+ * However, the files found in Megalinks or Torrents have __NOT BEEN CLEANED__ of lines under 8 characters
  * This will be fixed in Rev 2.0
+
 
 
 Lists sorted by popularity will include "probable" in the filename
@@ -98,9 +101,9 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 + No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
 
-Enjoy!
+__Enjoy!__
 
 
-This file last updated on 15 May, 2017
+This file last updated on 17 August, 2017
 
 Most recent commit may be a simple touch, or non-substantive edit to keep all files updated.

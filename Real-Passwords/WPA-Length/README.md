@@ -83,6 +83,6 @@ __Enjoy!__
 
 
 
-This file last updated on 15 May, 2017
+This file last updated on 17 August, 2017
 
 Most recent commit may be a simple touch, or non-substantive edit to keep all files updated.

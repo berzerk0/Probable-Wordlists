@@ -70,4 +70,10 @@
 * Added “Projects Using Probable-Wordlists” Section to README
 * Added ScullMW’s BUPW to this section
 
+#### 17 August 2017
+* Added all sorts of shoutouts since last Changelog
+* Pulled spmedia's 7-Character Fix to Repository-Hosted WPA-Lists.
+* Note that the 7-character fix does NOT apply to Rev 1.2 Files available in Megalinks or Torrents.
+* Updated README.md in the main, Real-Passwords and WPA-Length Directories
+
 

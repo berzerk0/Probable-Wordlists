@@ -20,7 +20,7 @@ Wordlists sorted by popularity originally created for password generation and te
 ### Why slog through an encyclopedic, alphabetized wordlist when you can start with the words people are most likely to use?
 #### Methodology - The Why and How
 
-  While I was able to locate a few Password Wordlists that were sorted by popularity, the vast majority of lists, especially the larger lists, were sorted alphabetically. This seems like a major practicality flaw! If we assume that the most common password is *password*, (which is actually the 2nd most common, after *123456*) and we are performing a dictionary attack using an English dictionary, we are going to have to slog from *aardvark* through *passover* to get to *password*. I don't know off the top of my head just how commonly *aardvark* is used as a password - but we could be wasting a lot of time by not starting with the most common password on our list!
+  While I was able to locate a few Password Wordlists that were sorted by popularity, the vast majority of lists, especially the larger lists, were sorted alphabetically. This seems like a major practicality flaw! If we assume that the most common password is *password*, (which is actually the 2nd most common, after *123456*) and we are performing checking passwords against an English dictionary, we are going to have to slog from *aardvark* through *passover* to get to *password*. I don't know off the top of my head just how commonly *aardvark* is used as a password - but we could be wasting a lot of time by not starting with the most common password on our list!
 
   I went to SecLists, Weakpass, and Hashes.org and downloaded nearly every single Wordlist containing real passwords I could find. These lists were huge, and I ended up with over 80 GB actual, human-generated and used passwords. These were split up among over 350 files of varying length, sorting scheme, character encoding, origin and other properties. I sorted these files, removed duplicates from within the files themselves, and prepared to join them all together.
 
@@ -42,6 +42,8 @@ The files in this folder come from https://github.com/danielmiessler/SecLists, h
  * A more inclusive, and thus, more accurate list is in the works.
 
 *NOTE THAT THE DUE TO THE NEWLINE DUPLICATES ISSUE, 'WPA-Length' LISTS MAY INCLUDE LINES OF 7 CHARACTERS*
+ * Files in the WPA-List Folders in this repo have been __CLEANED__ of lines under 8 characters.
+ * However, the files found in Megalinks or Torrents have __NOT BEEN CLEANED__ of lines under 8 characters
  * This will be fixed in Rev 2.0
 
 
@@ -55,7 +57,7 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
 
 ## Tasklist and Plans
 
-### Rev 2.0 Plan - Expected Mid-July 2017
+### Rev 2.0 Plan
 * [ ] Include truly accurate WPA-Length sorting
 * [x] More sources (This is what is taking the most time)
 * [x] Bigger sources
