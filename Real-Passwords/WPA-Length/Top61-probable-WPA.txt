@@ -42,8 +42,6 @@ password1
 maverick
 anderson
 scorpion
-michael
-diamond
 asdf1234
 1234qwer
 123123123
@@ -60,7 +58,4 @@ danielle
 champion
 1qazxsw2
 spiderman
-mustang
 marshall
-freedom
-1234567
