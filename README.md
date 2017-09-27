@@ -17,7 +17,8 @@ The charts contain *immediately actionable* advice on how to make your passwords
 # Probable Wordlists
 Wordlists sorted by popularity originally created for password generation and testing
 
-### Why slog through an encyclopedic, alphabetized wordlist when you can start with the words people are most likely to use?
+### Do you know what the world's most common passwords are? Do you know what they look like? You'll want to avoid them to be secure!
+
 #### Methodology - The Why and How
 
   While I was able to locate a few Password Wordlists that were sorted by popularity, the vast majority of lists, especially the larger lists, were sorted alphabetically. This seems like a major practicality flaw! If we assume that the most common password is *password*, (which is actually the 2nd most common, after *123456*) and we are performing checking passwords against an English dictionary, we are going to have to slog from *aardvark* through *passover* to get to *password*. I don't know off the top of my head just how commonly *aardvark* is used as a password - but we could be wasting a lot of time by not starting with the most common password on our list!
@@ -27,9 +28,7 @@ Wordlists sorted by popularity originally created for password generation and te
   Some of these lists were composed of the other lists, and some were exact duplicates. I took care to remove any exact duplicate files - we didn't need to have any avoidable false positives. __*If a password was found across multiple files, I considered this to be an approximation of its popularity.*__ If an entry was found in 5 files, it wasn't too popular. If an entry could be found in 300 files, it was very popular. Using Unix commands, I concatenated all the files into one giant file representing keys to over 4 billion secret areas on the web, and sorted them by number of appearances in the single file. From this, I was able to create a large wordlist sorted by popularity, not the alphabet. I've included all of the items that appeared at least twice in analysis.
 
  
-__*In addition to the WORLD'S most common passwords - why not try a Wordlist Laser-Guided to a particular person?*__
 
-__*[Check out my other project, BEWGor](https://github.com/berzerk0/BEWGor)*__
 
 ## Real-Passwords
 These are __REAL__ passwords. 
@@ -123,6 +122,8 @@ This is true for all applications downloaded off the internet - not just the har
  
 The author did not steal, phish, deceive or hack in any way to get hold of these passwords. 
 All lines in these files were obtained through freely available means.
+
+The author's intent for this project is to provide information on insecure passwords in order to increase overall password security. The lists will show you what passwords are the most common, what patterns are the most common, and what you should avoid when making
  
  
  [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
