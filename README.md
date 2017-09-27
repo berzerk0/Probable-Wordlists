@@ -15,13 +15,14 @@ The charts contain *immediately actionable* advice on how to make your passwords
 
 
 # Probable Wordlists
-Wordlists sorted by popularity originally created for password generation and testing
+Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
+
 
 ### Do you know what the world's most common passwords are? Do you know what they look like? You'll want to avoid them to be secure!
 
 #### Methodology - The Why and How
 
-  While I was able to locate a few Password Wordlists that were sorted by popularity, the vast majority of lists, especially the larger lists, were sorted alphabetically. This seems like a major practicality flaw! If we assume that the most common password is *password*, (which is actually the 2nd most common, after *123456*) and we are performing checking passwords against an English dictionary, we are going to have to slog from *aardvark* through *passover* to get to *password*. I don't know off the top of my head just how commonly *aardvark* is used as a password - but we could be wasting a lot of time by not starting with the most common password on our list!
+  While I was able to locate a few Password Wordlists that were sorted by popularity, the vast majority of lists, especially the larger lists, were sorted alphabetically. This seems like a major practicality flaw! If we assume that the most common password is *password*, (which is actually the 2nd most common, after *123456*) and we are checking to see if a given password is in against an English dictionary, we are going to have to slog from *aardvark* through *passover* to get to *password*. I don't know off the top of my head just how commonly *aardvark* is used as a password - but we could be wasting a lot of time by not starting with the most common password on our list!
 
   I went to SecLists, Weakpass, and Hashes.org and downloaded nearly every single Wordlist containing real passwords I could find. These lists were huge, and I ended up with over 80 GB actual, human-generated and used passwords. These were split up among over 350 files of varying length, sorting scheme, character encoding, origin and other properties. I sorted these files, removed duplicates from within the files themselves, and prepared to join them all together.
 
@@ -51,7 +52,7 @@ Lists sorted by popularity will include "probable" in the filename
 
 ## Dictionary-Style Lists
 
-Wordlists including dictionaries, encyclopedic lists and miscellaneous.
+Wordlists including dictionaries, encyclopedic lists and miscellaneous. Do not contain information found with the password label.
 
 
 ## Tasklist and Plans
