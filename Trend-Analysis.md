@@ -2,7 +2,7 @@
 
 ### In order to get a better idea of the trends of secure and insecure passwords, I ran a portion of these lists through [DigiNinja's Pipal.](https://digi.ninja/projects/pipal.php)
 
-Pipal was run on a list of the __Top 32 Most Popular Passwords__ - not the largest list in the repo, 
+Pipal was run on a list of the __Top 32 Million Most Popular Passwords__ - not the largest list in the repo, 
 but sizable enough to encompass common patterns. These patterns lead to easy-to-follow advice to make your password more unique and buck trends. Some passwords can appear secure, but can be easily guessed anyway.
 
 Passwords included in this analysis appeared at least 10 times in the Rev 1.2 Files.
