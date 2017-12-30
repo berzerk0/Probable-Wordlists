@@ -17,7 +17,7 @@
 
 ### Torrents Folder
   * Contained within are torrents of the Real-Password Files
-  * Four styles of compression are available LZMA-Zip, 7Z, tar.xz and tar.gz
+  * Compressed in 7Z
   * After downloading, remember to seed to help others get the same access you did.
   * Mega.nz Links are also provided in the Real-Passwords directory as a more predictable alternative to torrents
 
