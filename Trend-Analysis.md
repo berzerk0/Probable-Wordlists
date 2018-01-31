@@ -1,4 +1,4 @@
-# Probabable Password Trend Analysis
+# Probable Password Trend Analysis
 
 ### In order to get a better idea of the trends of secure and insecure passwords, I ran a portion of these lists through [DigiNinja's Pipal.](https://digi.ninja/projects/pipal.php)
 
