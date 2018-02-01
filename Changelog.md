@@ -1,6 +1,6 @@
 # Changelog	  	      	     	    	     	     	       	       
-  	 	   	   	       		     		       	 
-   	    	   	      	 	    	 	   	   	   
+
+
 ### 02 May 2017     	 	 	       	   	       	      
 * Planned Rev 1.2 - the torrenting			    	  	       
 * Removed "Sorted-into-Chunks" Files      	 	  	  	 
@@ -15,14 +15,14 @@
 * Added this changelog     	     	  	     	      	   	    
 * Inlcuded License terms in Contributing.md      	   	      	      
 * Added little description/commits for clarity   	      	  	      
-       	     	    	       	   	 	       	       	  
-	       	 	 	   	    	      	     	 	  
-   	   	     	  	    		  	  	      	  
+
+
+
 ### 04 May 2017      		     	       	    	     	    	       
 * Made subtle changes to all files to prepare for a BFG (https://rtyley.github.io/bfg-repo-cleaner/) purge. I set it up so that if files were not from the last commit, they would not remain.
- 	  	       	      		      	     	       	  	  
- 	    	   	 	     	  	     	    	       	  
- 	     	    	     	 		      	      	  	     
+
+
+
 ### 12 May 2017	 		 	       	      	       	      	       
 * Added new (actually old) Misc Wordlists from back in the day, added these into BEncyclopedia
 * Updated Dictionary-Style files to have one type of newline per [magnumripper's issue #14](https://github.com/berzerk0/Probable-Wordlists/issues/14)
@@ -32,7 +32,7 @@
 * Expunged older versions of Real-Password files from Mega.nz and their link files on GitHub
 * Updated Links files in both Dictionary-Style and Real-Password directories to contain only links to files that will be in the torrents.
 * Consolidated Links files into prettier .md files that contain more information and customization
-   	      	
+
 ### 15 May 2017
 * Added Torrents to Dict-Style Folder
 * Updated Readme for Dict-Style Folder
@@ -76,4 +76,8 @@
 * Note that the 7-character fix does NOT apply to Rev 1.2 Files available in Megalinks or Torrents.
 * Updated README.md in the main, Real-Passwords and WPA-Length Directories
 
-
+#### 1 Feb 2018 (and preceding week)
+* Began final push before release of v3.
+* Moved Trend-Analysis Page
+* Took down some shout outs. I truly appreciate every single mention. The page was getting a bit crowded, however.
+* Added Netmux shout out (which I discovered by accident after getting the book - exhilirating!)
