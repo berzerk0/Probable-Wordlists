@@ -81,3 +81,8 @@
 * Moved Trend-Analysis Page
 * Took down some shout outs. I truly appreciate every single mention. The page was getting a bit crowded, however.
 * Added Netmux shout out (which I discovered by accident after getting the book - exhilirating!)
+
+#### 9 Deb 2018
+* Deleted "Torrent Note" at beginning of ReadMe
+* Updated Trend Analysis Location
+* Streamlining/Typo Fixing
