@@ -1,12 +1,11 @@
 ### Please Help Support the Project by [seeding these files](https://github.com/berzerk0/Probable-Wordlists/releases/tag/v1.2)
 
-__Torrent Note:__ Before 21 Jun 2017, 4 compression formats for each wordlist variety were included: .7z, -LZMA.zip, .tar.gz and .tar.xz . Now, there are only __.7z__ and __.tar.gz__ files. The seeding performance was little diluted due to the presence of these redundant files. If you wish, you can still download the .tar.xz and -LZMA.zip files from the Mega.nz links, but *in future releases, only .7z and .tar.gz will be created.*
-
 ### To Cloners and Zip Downloaders:
 This repository does not contain code, but links to a group of lists.
-A clone or zip download is possible, but *may not be necessary to get the files you need*.
+__A clone or zip download is possible, but *may not be necessary to get the files you need*.__
 
 ### Check out the [Password Trend Analysis](https://github.com/berzerk0/GitPage/wiki/Actionable-Password-Advice-Based-on-the-Probable-Wordlists) - and learn!
+
 I visualized the trends of passwords that appeared 10 times or more in analysis.
 The charts contain *immediately actionable* advice on how to make your passwords more unique.
 
@@ -24,7 +23,7 @@ Wordlists sorted by probability originally created for password generation and t
 
   While I was able to locate a few Password Wordlists that were sorted by popularity, the vast majority of lists, especially the larger lists, were sorted alphabetically. This seems like a major practicality flaw! If we assume that the most common password is *password*, (which is actually the 2nd most common, after *123456*) and we are checking to see if a given password is in against an English dictionary, we are going to have to slog from *aardvark* through *passover* to get to *password*. I don't know off the top of my head just how commonly *aardvark* is used as a password - but we could be wasting a lot of time by not starting with the most common password on our list!
 
-  I went to SecLists, Weakpass, and Hashes.org and downloaded nearly every single Wordlist containing real passwords I could find. These lists were huge, and I ended up with over 80 GB actual, human-generated and used passwords. These were split up among over 350 files of varying length, sorting scheme, character encoding, origin and other properties. I sorted these files, removed duplicates from within the files themselves, and prepared to join them all together.
+  I went to SecLists, Weakpass, and Hashes.org and downloaded nearly every single Wordlist containing real passwords I could find. These lists were huge, and I ended up with over 80 GB of actual, human-generated and used passwords. These were split up among over 350 files of varying length, sorting scheme, character encoding, origin and other properties. I sorted these files, removed duplicates from within the files themselves, and prepared to join them all together.
 
   Some of these lists were composed of the other lists, and some were exact duplicates. I took care to remove any exact duplicate files - we didn't need to have any avoidable false positives. __*If a password was found across multiple files, I considered this to be an approximation of its popularity.*__ If an entry was found in 5 files, it wasn't too popular. If an entry could be found in 300 files, it was very popular. Using Unix commands, I concatenated all the files into one giant file representing keys to over 4 billion secret areas on the web, and sorted them by number of appearances in the single file. From this, I was able to create a large wordlist sorted by popularity, not the alphabet. I've included all of the items that appeared at least twice in analysis.
 
@@ -52,7 +51,7 @@ Lists sorted by popularity will include "probable" in the filename
 
 ## Dictionary-Style Lists
 
-Wordlists including dictionaries, encyclopedic lists and miscellaneous. Do not contain information found with the password label.
+Wordlists including dictionaries, encyclopedic lists and miscellaneous. Wordlists in this folder were not necessarily associated with the *"password"* label.
 
 
 ## Tasklist and Plans
@@ -64,6 +63,7 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous. Do not c
 * [x] Non-ASCII Sources (includes lines with non-ASCII characters)
 * [x] Totally Recompile wordlists for improved accuracy, no duplicates from the get-go.
 * [ ] Include Counts for some files
+* [ ] Include a HashCat ruleset
 
 ### Undetermined Future Plans - For Rev 3+
 * [ ] Create list of "pure" common passwords for use with rule-based cracking
@@ -93,7 +93,7 @@ Thanks for the shout-outs!
 ### Projects that use Probable-Wordlists
 *Note that the author is not affiliated with or officially endorsing any of the projects below.*
 
-The author cannot guarentee the security or efficacy of these applications - *use at your own risk.*
+The author cannot guarantee the security or efficacy of these applications - *use at your own risk.*
 
 Check any project's code before running, and *__ALWAYS EXERCISE EXTREME CAUTION__* when entering in a password.
 
@@ -110,7 +110,7 @@ This is true for all applications downloaded off the internet - not just the har
 The author did not steal, phish, deceive or hack in any way to get hold of these passwords.
 All lines in these files were obtained through freely available means.
 
-The author's intent for this project is to provide information on insecure passwords in order to increase overall password security. The lists will show you what passwords are the most common, what patterns are the most common, and what you should avoid when making
+The author's intent for this project is to provide information on insecure passwords in order to increase overall password security. The lists will show you what passwords are the most common, what patterns are the most common, and what you should avoid when creating your own passwords.
 
 
  [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
