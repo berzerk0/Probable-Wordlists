@@ -6,7 +6,7 @@ __Torrent Note:__ Before 21 Jun 2017, 4 compression formats for each wordlist va
 This repository does not contain code, but links to a group of lists.
 A clone or zip download is possible, but *may not be necessary to get the files you need*.
 
-### Check out the [Password Trend Analysis](https://berzerk0.github.io/gitblog/Trend-Analysis.html) - and learn!
+### Check out the [Password Trend Analysis](https://github.com/berzerk0/GitPage/wiki/Actionable-Password-Advice-Based-on-the-Probable-Wordlists) - and learn!
 I visualized the trends of passwords that appeared 10 times or more in analysis.
 The charts contain *immediately actionable* advice on how to make your passwords more unique.
 
