@@ -77,12 +77,21 @@
 * Updated README.md in the main, Real-Passwords and WPA-Length Directories
 
 #### 1 Feb 2018 (and preceding week)
-* Began final push before release of v3.
+* Began final push before release of V2.
 * Moved Trend-Analysis Page
 * Took down some shout outs. I truly appreciate every single mention. The page was getting a bit crowded, however.
 * Added Netmux shout out (which I discovered by accident after getting the book - exhilirating!)
 
-#### 9 Deb 2018
+#### 9 Feb 2018
 * Deleted "Torrent Note" at beginning of ReadMe
 * Updated Trend Analysis Location
 * Streamlining/Typo Fixing
+
+
+#### 15 Feb 2018
+* V2 has been
+* Removed call for sources on Contributing page. I have grep'ed, cut, awk'ed, tr'd, etc. enough for a lifetime.
+* Decided to include a ruleset and masks.
+* Officially removed [issue #12](https://github.com/berzerk0/Probable-Wordlists/issues/12) from the to-do list.
+* Closed [Issue #20](https://github.com/berzerk0/Probable-Wordlists/issues/20)
+* Closed [Issue #33](https://github.com/berzerk0/Probable-Wordlists/issues/33)
