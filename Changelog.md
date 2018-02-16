@@ -89,9 +89,8 @@
 
 
 #### 15 Feb 2018
-* V2 has been
 * Removed call for sources on Contributing page. I have grep'ed, cut, awk'ed, tr'd, etc. enough for a lifetime.
-* Decided to include a ruleset and masks.
+* Decided to include a ruleset and masks for analysis purposes.
 * Officially removed [issue #12](https://github.com/berzerk0/Probable-Wordlists/issues/12) from the to-do list.
 * Closed [Issue #20](https://github.com/berzerk0/Probable-Wordlists/issues/20)
 * Closed [Issue #33](https://github.com/berzerk0/Probable-Wordlists/issues/33)
