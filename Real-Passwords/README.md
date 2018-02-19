@@ -11,15 +11,14 @@ Files are available for 350, 250, 150, 75, 50, 25, 15, 10, and 5 appearances.
 
 | Filename | Appearances|
 | ---- | ----|
-|`Top207-probable-v2.txt` | lines appeared at least __350__ times
-| `Top1575-probable-v2.txt` | lines appeared at least __250__ times
-| `Top12Thousand-probable-v2.txt` | lines appeared at least __150__ times
-| `Top304Thousand-probable-v2.txt` | lines appearedat least __75__ times
-| `Top1pt6Million-probable-v2.txt` | lines appearedat least __50__ times
-| `Top29Million-probable-v2.txt` | lines appeared at least __25__ times
-| `Top109Million-probable-v2.txt` | lines appeared at least __15__ times
-| `Top353Million-probable-v2.txt` | lines appeared at least __10__ times
-| `Top2Billion-probable-v2.txt` | lines appeared at least __5__ times
+| `Top207-probable-v2.txt` | lines appeared at least __350__ times |
+| `Top1575-probable-v2.txt` | lines appeared at least __250__ times |
+| `Top12Thousand-probable-v2.txt` | lines appeared at least __150__ times |
+| `Top304Thousand-probable-v2.txt` | lines appearedat least __75__ times |
+| `Top1pt6Million-probable-v2.txt` | lines appearedat least __50__ times |
+| `Top109Million-probable-v2.txt` | lines appeared at least __15__ times |
+| `Top353Million-probable-v2.txt` | lines appeared at least __10__ times |
+| `Top2Billion-probable-v2.txt` | lines appeared at least __5__ times |
 
 
 

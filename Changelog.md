@@ -82,6 +82,7 @@
 * Took down some shout outs. I truly appreciate every single mention. The page was getting a bit crowded, however.
 * Added Netmux shout out (which I discovered by accident after getting the book - exhilirating!)
 
+
 #### 9 Feb 2018
 * Deleted "Torrent Note" at beginning of ReadMe
 * Updated Trend Analysis Location
@@ -94,3 +95,8 @@
 * Officially removed [issue #12](https://github.com/berzerk0/Probable-Wordlists/issues/12) from the to-do list.
 * Closed [Issue #20](https://github.com/berzerk0/Probable-Wordlists/issues/20)
 * Closed [Issue #33](https://github.com/berzerk0/Probable-Wordlists/issues/33)
+
+
+
+#### 19 Feb 2018
+* Removed "Projects that use Probable Wordlists"

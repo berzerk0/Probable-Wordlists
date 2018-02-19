@@ -57,16 +57,14 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous. Wordlist
 ## Tasklist and Plans
 
 ### Rev 2.0 Plan
-* [ ] Include truly accurate WPA-Length sorting
+* [x] Include truly accurate WPA-Length sorting
 * [x] More sources (This is what is taking the most time)
 * [x] Bigger sources
 * [x] Non-ASCII Sources (includes lines with non-ASCII characters)
 * [x] Totally Recompile wordlists for improved accuracy, no duplicates from the get-go.
-* [ ] Include Counts for some files
 * [ ] Include a HashCat ruleset
 
 ### Undetermined Future Plans - For Rev 3+
-* [ ] Create list of "pure" common passwords for use with rule-based cracking
 * [ ] Specialized lists compiled from sources themselves
 
 
@@ -90,17 +88,6 @@ I found most (if not all) of these mentions by simply searching for the project 
 
 Thanks for the shout-outs!
 
-### Projects that use Probable-Wordlists
-*Note that the author is not affiliated with or officially endorsing any of the projects below.*
-
-The author cannot guarantee the security or efficacy of these applications - *use at your own risk.*
-
-Check any project's code before running, and *__ALWAYS EXERCISE EXTREME CAUTION__* when entering in a password.
-
-This is true for all applications downloaded off the internet - not just the hardworking members of the Github community who write open-source code for no profit.*
-
-
- * [__ScullWM's Basic User Password Warning - A "Microservice" that checks if your password is on a list__](https://github.com/ScullWM/Bupw)
 
 ## Disclaimer and License
  + These lists are for LAWFUL, ETHICAL AND EDUCATIONAL PURPOSES ONLY.
