@@ -3,7 +3,7 @@
 
 # CONTRIBUTIONS
 
-## Bug fixes, Found Errors , Suggestions for Improvement
+## Bug fixes, Found Errors, Suggestions for Improvement
 1. Create an issue, assuming one does not already exist.
 2. Clearly describe the issue including how you found it, and if you intend to fix it
 3. Fork the repository on GitHub
@@ -42,6 +42,6 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 
 
-This file last updated on 15 Feb, 2018
+This file last updated on 19 Feb, 2018
 
 Most recent commit may be a simple touch, or non-substantive edit to keep all files updated.

@@ -1,34 +1,34 @@
 # Real-Password Folder Containing Compressed Files
-Contains all the passwords, but *__no__ files exclusively containing __WPA-Length__ lines*
+Contains all the passwords, but __*no*__ files exclusively containing __*WPA-Length*__ lines.
 
 
-  * 45.0 GB Uncompressed
-  * Max 7.40 GB Compressed
-  
+  * 27 GB Uncompressed
+  * Max 8 GB Compressed
+
+### You have the option to download all the files, or get them one at a time.
+
+
+## Real-Password MegaLinks
+*No files are exclusively WPA-Length*
+
+| Compression Method | Link |
+| --- | --- |
+| __tar.gz__ <br> 8.0 GB total | *https://mega.nz/#F!HRgEwRJR!lTA3GYxLSnC8I7ecOiFjFA* |
+| __7z__ <br> 5.0 GB total |*https://mega.nz/#F!GM5ygaRI!GTyAgQZkONBGgFF7RH0VAg * |
+
+
+If any of these links are dead, please open an issue as soon as possible.
+
+
+
 ## Recommended Unarchivers:
 * Windows: 7Zip
 * Mac: Keka
 * Linux: Command Line, p7zip
-  
-## NOTE THAT INDIVIDUAL FILES CAN BE DOWNLOADED
-## YOU HAVE THE OPTION TO DOWNLOAD ALL OF THE FILES, OR ONE AT A TIME
-
-
-__tar.gz__, 7.40 GB: *https://mega.nz/#F!xaghyJQb!3EDbm5Mcz2pD0HVqyE8rJQ*
-
-__tar.xz__, 5.22 GB: *https://mega.nz/#F!kS4WyRjZ!rGfdm4stmgoRcmEEhduKzA*
-
-__7z__, 5.20 GB: *https://mega.nz/#F!5CxhhJRA!StYkDCiLPVQ2nMMoyGN1LQ*
-
-__LZMA-ZIP__, 5.16 GB: *https://mega.nz/#F!oWgniCgC!PHZVoS7alMxiRYs9o_Oblg*
 
 
 
 
-__Enjoy!__
+Enjoy!
 
-
-
-This file last updated on 15 May, 2017
-
-Most recent commit may be a simple touch, or non-substantive edit to keep all files updated.
+This file last updated on 19 Feb, 2018.

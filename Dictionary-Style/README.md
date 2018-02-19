@@ -1,40 +1,47 @@
 # What am I looking at?
 
-__BEncylopedia-MegaLinks.md has Mega.nz links to the BEncyclopedia in different compression formats__
 
-__Dictionary-Style-MegaLinks.md has Mega,z links to the all the dictionary style files, including the BEncylcopedia, in different compression formats__
+__Dictionary-Style-MegaLinks.md has Mega.nz links to the all the dictionary style files in different compression formats__
+
+
+The files in this folder are not sorted by popularity. <br>
+Their contents are not given the label of *"passwords,"* but may be useful wordlists in their own right.
+
 
 ### Torrents Folder
-  * Contained within are torrents of the Dictionary-Style Files
-  * Four styles of compression are available LZMA-Zip, 7Z, tar.xz and tar.gz
-  * After downloading, remember to seed to help others get the same access you did.
-  * Mega.nz Links are also provided in the Dictionary-Style directory as a more predictable alternative to torrents
+* Contained within are torrents of the Dictionary-Style Files
+* Two styles of compression are available: 7Z and tar.gz
+* After downloading, __*remember to seed*__ to help others get the same access you did.
+* Mega.nz Links are also provided in the Dictionary-Style directory as a more predictable alternative to torrents
 
-### BEncyclopedia
-  * A Large Encyclopedic, alphabetically-sorted Wordlist composed of the others in this folder, plus a few that aren't.
-  * Unlike the Dictionaries, only has one capitalization variant - the standard.
-  * 1 GB Uncompressed
-  * Max 299.8 MB Compressed
-  
-### MainEnglishDictionary
-  * A Standard English Dictionary file, with a
-  * Contains standard, ALL CAPS and all lowercase variants.
-  * 38.2 MB Uncompressed
-  * Max 12.3 MB Compressed
-  
-### IncludesNonEnglishDictionary.txt
-  * A Dictionary composed of words in some of the languages that use the latin alphabet and its variants.
-  * English, German, Spanish, etc.
-  * Contains standard, ALL CAPS and all lowercase variants.
-  * 183 MB Uncompressed
-  * Max 44.1 MB Compressed
+
+### MainEnglishDictionary_ProbWL.txt
+* A Standard English Dictionary file, with all lowercase entries
+* 13.9 MB Uncompressed
+* Max NUMBER Compressed
+
+### MultilingualDictionary_ProbWL.txt
+* Contains 17 million words from many languages and alphabets
+* Latin-based characters, Cyrillic, Chinese, etc.
+* 230.1 MB Uncompressed
+* Max NUMBER Compressed
+* Contains non-ASCII characters
+
 
 ### Misc_Wordlists
-  * A pet project of mine I revisit now and again.
-  * Includes topical wordlists such as types of dogs, beverages, geographical location, Mythical figures, esoterica, and more
-  * I just find these fun - I've used them for Codenames, Drinking Games and randomization schemes.
-  * 912 KB Uncompressed
-  * Max 320KB Compressed
+* A pet project of mine I revisit now and again.
+* Includes topical wordlists such as types of dogs, beverages, geographical location, Mythical figures, esoterica, and more
+* I just find these fun - I've used them for Codenames, drinking games and randomization schemes.
+* 1.5 MB Uncompressed
+* Max NUMBER Compressed
+
+
+### BEncyclopedia
+* A Large Encyclopedic, alphabetically-sorted Wordlist composed of the others in this folder, plus a few that aren't.
+* 2 GB Uncompressed
+* Max NUMBER Compressed
+* Contains non-ASCII Characters
+
 
 #### Recommended Unarchivers:
 * Windows: 7Zip
@@ -43,20 +50,21 @@ __Dictionary-Style-MegaLinks.md has Mega,z links to the all the dictionary style
 
 #### Recommended Torrent Client:
 * __Deluge__ gave me the best results in terms of connecting to the seedbox
-  
-  
+
+***
+
 ![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
 
 ## Disclaimer and License
- + These lists are for LAWFUL, ETHICAL AND EDUCATIONAL PURPOSES ONLY.
- + The files contained in this repository are released "as is" without warranty, support, or guarantee of effectiveness. 
- + *However, I am open to hearing about any issues found within these files and will be actively maintaining this repository for the foreseeable future. If you find anything noteworthy, let me know and I'll see what I can do about it.*
- 
++ These lists are for LAWFUL, ETHICAL AND EDUCATIONAL PURPOSES ONLY.
++ The files contained in this repository are released "as is" without warranty, support, or guarantee of effectiveness.
++ *However, I am open to hearing about any issues found within these files and will be actively maintaining this repository for the foreseeable future. If you find anything noteworthy, let me know and I'll see what I can do about it.*
+
  [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
  __This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)__
- 
- #### You are free to:
+
+#### You are free to:
 
 #### Share
 + Copy and redistribute the material in any medium or format
@@ -68,9 +76,9 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ### Under the following terms:
 
-#### Attribution 
+#### Attribution
 + You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-#### ShareAlike 
+#### ShareAlike
 + If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 #### No additional restrictions
 + You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
