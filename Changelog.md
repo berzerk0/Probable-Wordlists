@@ -111,4 +111,4 @@
 * Added Downloads page
 * Proofreading
 * Removed "Tasklist and Plans" Section until items arise
-*
+* Added footer to all ReadMe's (except main) and MegaLink pages
