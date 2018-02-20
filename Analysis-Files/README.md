@@ -1,15 +1,62 @@
-# Analysis
-
-
-What are these?
+# Analysis Files
 
 
 
+The files reached through this directory will assist in password analysis and recovery.<br>
+__Most files can only be accessed via torrent or MegaLink.__ <br>
+A few files are included in the repository, however,
+
+All rules and masks were generated using [PACK](https://thesprawl.org/projects/pack/).
 
 
 
+## Rules
+
+Hashcat rulesets allow for automatic modification of wordlist items during the use of the Hashcat software. These modifications can include changes in capitalization, the addition of characters and manipulation of the whole string.
+
+A rulset takes `password` and generates outputs like `PASSWORD`, `p455w0rd`, `dr0wssap`, etc.
+
+Remember, a mutation will be generated for __*every*__ rule in a ruleset. This dramatically increases the functional size of a wordlist, but may quickly result in far too many entries for practical use.
+
+In order to limit this, I've divided the rules generated from `Top29Million-probable-v2.txt` into smaller, __cumulative__ files. These rules are sorted by probabilty, with the most common rules at the top of the list.
+
+At 2.2GB, the largest ruleset should be used with only the shortest wordlists.<br>
+Its use is not practical for any other purpose.
 
 
+## Masks
+
+__Masks are not included the repository and must be downloaded via torrent or MegaLink.__
+
+Hashcat uses character descriptions to outline password composition. They are similar to regular expressions.
+
+* `?l` is used by any character `abdcdefghijklmnopqrstuvwxyz`
+* `?u` represents `ABCDEFGHIJKLMNOPQRSTUVWXYZ`
+* `?d` represnts `0123456789`
+
+These are used repeatedly to create __"Masks"__ that are used to describe combinations of characters.
+
+`?l?l?l?d?d?d` represents all combinations of lowercase letters and numbers from `aaa000` through `zzz999`
+
+
+These masks are used to describe composition patterns in the list.
+Two files are included:
+
+* `ProbWL-mask-probable-v2.mask` contains all masks found in `Top2Billion-probable-v2.txt`, sorted by popularity
+* `ProbWL-mask-probable-v2-counts.txt` contains the same contents as the first file, but each entry is paired with the number of times a password matching that mask appeared in the wordlist.
+
+<br>
+
+#### Recommended Unarchivers:
+* Windows: 7Zip
+* Mac: Keka
+* Linux: Command Line, p7zip
+
+#### Recommended Torrent Client:
+* __Deluge__ gave me the best results in terms of connecting to the seedbox.
+
+
+***
 
 ![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
 
@@ -22,7 +69,7 @@ What are these?
 
  __This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)__
 
- #### You are free to:
+#### You are free to:
 
 #### Share
 + Copy and redistribute the material in any medium or format
@@ -51,7 +98,5 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 __Enjoy!__
 
 
-
-This file last updated on 15 May, 2017
-
-Most recent commit may be a simple touch, or non-substantive edit to keep all files updated.
+<br>
+This file was last updated on 20 Feb, 2018.

@@ -97,6 +97,11 @@
 * Closed [Issue #33](https://github.com/berzerk0/Probable-Wordlists/issues/33)
 
 
-
 #### 19 Feb 2018
 * Removed "Projects that use Probable Wordlists"
+* Added Torrents and MegaLinks
+* Updated README's
+* Added Analysis-Files Section
+* Realized that in compressed versions, `Top1575-probable-v2.txt` is named `Top1575-probable2.txt` - not worth taking down and re-uploading the torrents and links for this.
+* Prepared TweetBot
+* Proofreading, but I am likely to find typos and things in the next few days.

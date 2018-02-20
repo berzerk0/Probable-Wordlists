@@ -42,6 +42,6 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 
 
-This file last updated on 19 Feb, 2018
+This file was last updated on 20 Feb, 2018.
 
 Most recent commit may be a simple touch, or non-substantive edit to keep all files updated.

@@ -1,68 +1,80 @@
-### Please Help Support the Project by [seeding these files](https://github.com/berzerk0/Probable-Wordlists/releases/tag/v1.2)
+# Probable Wordlists - Version 2.0
 
-### To Cloners and Zip Downloaders:
-This repository does not contain code, but links to a group of lists.
-__A clone or zip download is possible, but *may not be necessary to get the files you need*.__
+ __Do you know what the world's most common passwords are?<br>
+Do you know what they look like?<br>
+You'll want to avoid them to be secure!__
 
-### Check out the [Password Trend Analysis](https://github.com/berzerk0/GitPage/wiki/Actionable-Password-Advice-Based-on-the-Probable-Wordlists) - and learn!
-
-I visualized the trends of passwords that appeared 10 times or more in analysis.
-The charts contain *immediately actionable* advice on how to make your passwords more unique.
-
+### Cloners and Zip Downloaders:
+This repository does not contain code, but links to a group of lists. <br>
+__*A clone may not be necessary to get the files you need*.__
 
 ![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
 
+#### Check out the [Password Trend Analysis](https://github.com/berzerk0/GitPage/wiki/Actionable-Password-Advice-Based-on-the-Probable-Wordlists) - and learn!
 
-# Probable Wordlists
-Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
+I visualized the trends of passwords that appeared 10 times or more in the __Version 1__ files.
+The charts contain *immediately actionable* advice on how to make your passwords more unique.
 
+## Methodology: Why and How
 
-### Do you know what the world's most common passwords are? Do you know what they look like? You'll want to avoid them to be secure!
+### The Why
 
-#### Methodology - The Why and How
+Password wordlists are not hard to find. It seems like every few days we hear about some massive, record-breaking data breach that has scattered millions of login credentials all over the internet for everyone to see. If our data is leaked, we'll change our passwords, the hard-working security teams will address the vulnerabilities and everyone will wait until they hear about the next breach.
 
-  While I was able to locate a few Password Wordlists that were sorted by popularity, the vast majority of lists, especially the larger lists, were sorted alphabetically. This seems like a major practicality flaw! If we assume that the most common password is *password*, (which is actually the 2nd most common, after *123456*) and we are checking to see if a given password is in against an English dictionary, we are going to have to slog from *aardvark* through *passover* to get to *password*. I don't know off the top of my head just how commonly *aardvark* is used as a password - but we could be wasting a lot of time by not starting with the most common password on our list!
+While leaks may be published with malicious intent, I see an opportunity here for the average person to make themselves a bit more secure online.
 
-  I went to SecLists, Weakpass, and Hashes.org and downloaded nearly every single Wordlist containing real passwords I could find. These lists were huge, and I ended up with over 80 GB of actual, human-generated and used passwords. These were split up among over 350 files of varying length, sorting scheme, character encoding, origin and other properties. I sorted these files, removed duplicates from within the files themselves, and prepared to join them all together.
+Passwords, by definition, are meant to be secret. If it weren't for these leaks, we might not have any idea what a password looks like. Sure, we might know the password of our friend's home Wifi network, or perhaps of a shared bank account, but passwords are most often intended to be only known by the user and an authentication system.
 
-  Some of these lists were composed of the other lists, and some were exact duplicates. I took care to remove any exact duplicate files - we didn't need to have any avoidable false positives. __*If a password was found across multiple files, I considered this to be an approximation of its popularity.*__ If an entry was found in 5 files, it wasn't too popular. If an entry could be found in 300 files, it was very popular. Using Unix commands, I concatenated all the files into one giant file representing keys to over 4 billion secret areas on the web, and sorted them by number of appearances in the single file. From this, I was able to create a large wordlist sorted by popularity, not the alphabet. I've included all of the items that appeared at least twice in analysis.
+But, consider this: __*If you are never supposed to tell me your password, and I am never going to tell you mine, how do we know that we aren't using the same one?*__ In fact, __*how do we know we aren't using the same password as millions of other people?*__
 
+If crooks are the only ones that understand what common passwords are, then the rest of us may never change our passwords because we have have no reason to believe they aren't one of a kind.
 
+This is confirmed year after year when `password` is found to be among the top 3 password for the umpteenth time in a row. Unless the average person knows what an overly common password looks like, they will come up with passwords that have appeared in one of these breaches.
 
+If any of your passwords has been published on the internet for everyone to see, then can you really claim it as *your* password?
+
+## The How
+
+While studying password wordlists, it quickly became clear to me that most were either sorted alphabetically, or not sorted at all. To bring rhyme and reason to these lists, they had to be sorted in a manner that __*reflected actual human behavior*__, not an arbitrary alphabet system.
+
+For the better part of a year, I went to sites like SecLists, Weakpass, and Hashes.org to downloaded nearly every single Wordlist containing real passwords I could find. After attempting to remove non-pertinent information, I ended up with nearly 1600 files spanning more than 350GB worth of leaked passwords. Some of these lists were composed of smaller lists, and some lists were exact copies, but I took care that the source material was as "pure" as possible.
+
+For each file, I removed internal duplicates and ensured that they all used the same style of newline character. Then, all files were combined into a single amalgamation that represented all of the source files.
+
+Each time a password was found in this file represented a time it was found in the source materials. __*If a password was found in mulitple files, I considered this to be an approximation of its popularity.*__ If an entry was found in less than 5 files, it isn't commonly used. But, if an entry could be found more than  300 files, it is incredibly popular. The passwords that were found in the highest number of source files are considered to be the most popular and are placed at top of the list. Conversely, files that didn't appear frequently were placed at the bottom.
+
+The giant source file represented nearly *13 billion passwords!* However, since this project aims to find the most popular passwords, and not just list as many passwords as I could find, __*a password needed to be found at least 5 times in analysis to be included on these lists.*__
+
+The end result is a list of approximately __*2 Billion*__ real passwords, sorted in order of their popularity. The sorting of the lists reflects actual human
+
+***
 
 ## Real-Passwords
 These are __REAL__ passwords.
 Every once in a while, a popular site has a high-profile security leak and passwords are released freely across the internet.
 Some of these passwords can be found on aggregator sites where they are separated from usernames to protect the unfortunate victim.
 
-The files in this folder come from https://github.com/danielmiessler/SecLists, https://weakpass.com/ and https://hashes.org/
+The files in this folder come from sites like https://github.com/danielmiessler/SecLists, https://weakpass.com/ and https://hashes.org/
 
-*NOTE THAT UNTIL REV 2.0, ALL NON-ASCII CHARACTERS HAVE BEEN REMOVED*
- * A more inclusive, and thus, more accurate list is in the works.
+Some files contain entries between 8-40 characters. These can be found in the [Real-Passwords/WPA-Length](Rea-Passwords/WPA-Length) directory.
 
-*NOTE THAT THE DUE TO THE NEWLINE DUPLICATES ISSUE, 'WPA-Length' LISTS MAY INCLUDE LINES OF 7 CHARACTERS*
- * Files in the WPA-List Folders in this repo have been __CLEANED__ of lines under 8 characters.
- * However, the files found in Megalinks or Torrents have __NOT BEEN CLEANED__ of lines under 8 characters
- * This will be fixed in Rev 2.0
-
-
-Lists sorted by popularity will include "probable" in the filename
+Lists sorted by popularity will include "probable-v2" in the filename
 
 
 ## Dictionary-Style Lists
 
 Wordlists including dictionaries, encyclopedic lists and miscellaneous. Wordlists in this folder were not necessarily associated with the *"password"* label.
 
+Some technically useful lists, such as common usernames, tlds, subdirectories, etc. are included.
+
+
+## Analysis Files
+
+This folder contains files for steps useful for password recovery and analysis.
+Character masks and Hashcat rules were generated using the
+
 
 ## Tasklist and Plans
-
-### Rev 2.0 Plan
-* [x] Include truly accurate WPA-Length sorting
-* [x] More sources (This is what is taking the most time)
-* [x] Bigger sources
-* [x] Non-ASCII Sources (includes lines with non-ASCII characters)
-* [x] Totally Recompile wordlists for improved accuracy, no duplicates from the get-go.
-* [ ] Include a HashCat ruleset
 
 ### Undetermined Future Plans - For Rev 3+
 * [ ] Specialized lists compiled from sources themselves
@@ -88,6 +100,8 @@ I found most (if not all) of these mentions by simply searching for the project 
 
 Thanks for the shout-outs!
 
+
+***
 
 ## Disclaimer and License
  + These lists are for LAWFUL, ETHICAL AND EDUCATIONAL PURPOSES ONLY.

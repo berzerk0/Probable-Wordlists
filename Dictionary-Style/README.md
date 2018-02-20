@@ -49,7 +49,7 @@ Their contents are not given the label of *"passwords,"* but may be useful wordl
 * Linux: Command Line, p7zip
 
 #### Recommended Torrent Client:
-* __Deluge__ gave me the best results in terms of connecting to the seedbox
+* __Deluge__ gave me the best results in terms of connecting to the seedbox.
 
 ***
 
@@ -93,7 +93,5 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 __Enjoy!__
 
 
-
-This file last updated on 15 May, 2017
-
-Most recent commit may be a simple touch, or non-substantive edit to keep all files updated.
+<br>
+This file was last updated on 20 Feb, 2018.

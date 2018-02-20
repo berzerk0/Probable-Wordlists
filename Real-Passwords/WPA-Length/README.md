@@ -9,8 +9,9 @@
 
 
 
-  __Note that these files are CUMULATIVE.__
-  *I.E, the entirety of the smallest file is contained in the 2nd smallest file. All of the smaller files are contained in the largest file.* This does not mean there are repititions, however.
+  __Note that these files are CUMULATIVE.__ <br>
+  *I.E, the entirety of the smallest file is contained in the 2nd smallest file. All of the smaller files are contained in the largest file.* <br>
+  This does *not* mean there are repititions, however.
 
 
 ### Torrents Directory
@@ -78,7 +79,5 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 __Enjoy!__
 
 
-
-This file last updated on 17 August, 2017
-
-Most recent commit may be a simple touch, or non-substantive edit to keep all files updated.
+<br>
+This file was last updated on 20 Feb, 2018.
