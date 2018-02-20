@@ -1,45 +1,50 @@
-# What am I looking at?
-
-
-__Dictionary-Style-MegaLinks.md has Mega.nz links to the all the dictionary style files in different compression formats__
-
+# Dictionary Style Lists
 
 The files in this folder are not sorted by popularity. <br>
 Their contents are not given the label of *"passwords,"* but may be useful wordlists in their own right.
 
 
-### Torrents Folder
+## Torrents
 * Contained within are torrents of the Dictionary-Style Files
 * Two styles of compression are available: 7Z and tar.gz
-* After downloading, __*remember to seed*__ to help others get the same access you did.
-* Mega.nz Links are also provided in the Dictionary-Style directory as a more predictable alternative to torrents
+* After downloading, __remember to seed__ to help others get the same access you did.
+* [Mega.nz Links](Dictionary-Style-MegaLinks.md) are provided as a more predictable alternative to torrents.
 
 
-### MainEnglishDictionary_ProbWL.txt
-* A Standard English Dictionary file, with all lowercase entries
+## Contents
+
+### Technical And Default Wordlists
+* Default Domains
+* Default Usernames
+* Default Passwords
+* TLD Listing
+
+
+### `MainEnglishDictionary_ProbWL.txt`
+* A Standard English Dictionary file, with all lowercase entries.
 * 13.9 MB Uncompressed
-* Max NUMBER Compressed
+* Max 4.3MB Compressed
 
-### MultilingualDictionary_ProbWL.txt
+### `MultilingualDictionary_ProbWL.txt`
 * Contains 17 million words from many languages and alphabets
 * Latin-based characters, Cyrillic, Chinese, etc.
 * 230.1 MB Uncompressed
-* Max NUMBER Compressed
+* Max 48.5 Compressed
 * Contains non-ASCII characters
 
 
-### Misc_Wordlists
+### Misc. Wordlists
 * A pet project of mine I revisit now and again.
 * Includes topical wordlists such as types of dogs, beverages, geographical location, Mythical figures, esoterica, and more
 * I just find these fun - I've used them for Codenames, drinking games and randomization schemes.
 * 1.5 MB Uncompressed
-* Max NUMBER Compressed
+* Max 539KB Compressed
 
 
 ### BEncyclopedia
 * A Large Encyclopedic, alphabetically-sorted Wordlist composed of the others in this folder, plus a few that aren't.
 * 2 GB Uncompressed
-* Max NUMBER Compressed
+* Max 516.3 MB Compressed
 * Contains non-ASCII Characters
 
 

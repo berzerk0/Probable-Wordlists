@@ -1,4 +1,4 @@
-# Analysis-Files Megalinks Containing Compressed Files
+# Analysis-Files MegaLinks Containing Compressed Files
 
 ## Rules
 * 2.3 GB Uncompressed

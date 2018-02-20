@@ -3,22 +3,27 @@
 
 
 The files reached through this directory will assist in password analysis and recovery.<br>
+
 __Most files can only be accessed via torrent or MegaLink.__ <br>
 A few files are included in the repository, however,
 
-All rules and masks were generated using [PACK](https://thesprawl.org/projects/pack/).
+All rules and masks were generated using the [PACK](https://github.com/iphelix/pack) project.
 
 
 
 ## Rules
 
-Hashcat rulesets allow for automatic modification of wordlist items during the use of the Hashcat software. These modifications can include changes in capitalization, the addition of characters and manipulation of the whole string.
+HashCat rulesets allow for automatic modification of wordlist items during use of the HashCat software. These modifications can include changes in capitalization, the addition of characters, manipulation of a whole string and more.
 
-A rulset takes `password` and generates outputs like `PASSWORD`, `p455w0rd`, `dr0wssap`, etc.
 
-Remember, a mutation will be generated for __*every*__ rule in a ruleset. This dramatically increases the functional size of a wordlist, but may quickly result in far too many entries for practical use.
+Use of a ruleset takes `password` as an input and generates outputs like `PASSWORD`, `p455w0rd`, `dr0wssap`, etc.
 
-In order to limit this, I've divided the rules generated from `Top29Million-probable-v2.txt` into smaller, __cumulative__ files. These rules are sorted by probabilty, with the most common rules at the top of the list.
+
+*A mutation will be generated for __every__ rule in a ruleset.* Consider a ruleset with 5 entries and a wordlist with 20 lines. When combined, the functional size of the wordlist is increased from 20 to 100. Keep in mind that the smallest ruleset provided here is *26* entries long.
+
+The use of rulesets increases the functional size of a wordlist, but may quickly result in far too many entries for practical use.
+
+In order to limit this, I've divided the rules generated from `Top29Million-probable-v2.txt` into smaller, __cumulative__ files. These rules are sorted by probability, with the most common rules at the top of the list.
 
 At 2.2GB, the largest ruleset should be used with only the shortest wordlists.<br>
 Its use is not practical for any other purpose.
@@ -28,15 +33,15 @@ Its use is not practical for any other purpose.
 
 __Masks are not included the repository and must be downloaded via torrent or MegaLink.__
 
-Hashcat uses character descriptions to outline password composition. They are similar to regular expressions.
+HashCat uses character descriptions to outline password composition. They are similar to regular expressions.
 
-* `?l` is used by any character `abdcdefghijklmnopqrstuvwxyz`
+* `?l` represents any character  `abdcdefghijklmnopqrstuvwxyz`
 * `?u` represents `ABCDEFGHIJKLMNOPQRSTUVWXYZ`
 * `?d` represnts `0123456789`
 
 These are used repeatedly to create __"Masks"__ that are used to describe combinations of characters.
 
-`?l?l?l?d?d?d` represents all combinations of lowercase letters and numbers from `aaa000` through `zzz999`
+`?l?l?l?d?d?d` represents all combinations of lowercase letters and numbers from `aaa000` through `zzz999`.
 
 
 These masks are used to describe composition patterns in the list.
@@ -44,6 +49,7 @@ Two files are included:
 
 * `ProbWL-mask-probable-v2.mask` contains all masks found in `Top2Billion-probable-v2.txt`, sorted by popularity
 * `ProbWL-mask-probable-v2-counts.txt` contains the same contents as the first file, but each entry is paired with the number of times a password matching that mask appeared in the wordlist.
+
 
 <br>
 

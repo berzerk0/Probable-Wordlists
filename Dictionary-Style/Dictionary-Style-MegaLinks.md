@@ -7,7 +7,7 @@
 
 Note that the BEncylcopedia is 2.0 GB of that size.
 
-These are __not passwords__ and are __not sorted by probability__.
+These are __mostly not passwords__ and are __not sorted by probability__.
 
 
 

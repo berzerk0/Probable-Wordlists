@@ -2,15 +2,19 @@
 
  __Do you know what the world's most common passwords are?<br>
 Do you know what they look like?<br>
-You'll want to avoid them to be secure!__
+You'll want to avoid them to be secure!__<br>
 
-### Cloners and Zip Downloaders:
+### Thinking of Cloning?
 This repository does not contain code, but links to a group of lists. <br>
-__*A clone may not be necessary to get the files you need*.__
+__*A clone may not be necessary to get the files you need*.__ <br>
+Visit the __[downloads](Downloads.md)__ page for more information.
 
-![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
+<br>
+![Probable Wordlists Logo](ProbableWordlistLogo.png)
+<br>
 
 #### Check out the [Password Trend Analysis](https://github.com/berzerk0/GitPage/wiki/Actionable-Password-Advice-Based-on-the-Probable-Wordlists) - and learn!
+
 
 I visualized the trends of passwords that appeared 10 times or more in the __Version 1__ files.
 The charts contain *immediately actionable* advice on how to make your passwords more unique.
@@ -19,65 +23,67 @@ The charts contain *immediately actionable* advice on how to make your passwords
 
 ### The Why
 
-Password wordlists are not hard to find. It seems like every few days we hear about some massive, record-breaking data breach that has scattered millions of login credentials all over the internet for everyone to see. If our data is leaked, we'll change our passwords, the hard-working security teams will address the vulnerabilities and everyone will wait until they hear about the next breach.
+Password wordlists are not hard to find. It seems like every few weeks we hear about a massive, record-breaking data breach that has scattered millions of credentials across the internet for everyone to see. If our data is leaked, we'll change our passwords, the hard-working security teams will address the vulnerabilities and everyone will wait until they hear about the next breach.
 
-While leaks may be published with malicious intent, I see an opportunity here for the average person to make themselves a bit more secure online.
+While leaks may be published with malicious intent, I see an opportunity here for the us to make ourselves a bit more secure online.
 
-Passwords, by definition, are meant to be secret. If it weren't for these leaks, we might not have any idea what a password looks like. Sure, we might know the password of our friend's home Wifi network, or perhaps of a shared bank account, but passwords are most often intended to be only known by the user and an authentication system.
+Passwords, by definition, are meant to be secret. If it weren't for these leaks, we might not have any idea what a password looks like. Sure, we might know the password to a friend's home Wifi network, or for a company expense account, but passwords are usually only intended to be known by the user and an authentication system.
 
-But, consider this: __*If you are never supposed to tell me your password, and I am never going to tell you mine, how do we know that we aren't using the same one?*__ In fact, __*how do we know we aren't using the same password as millions of other people?*__
+But, consider this:<br>
+If you are never supposed to tell me yours, and I am never going to tell you mine, __how do we know that we aren't using the same passwords?__<br>
 
-If crooks are the only ones that understand what common passwords are, then the rest of us may never change our passwords because we have have no reason to believe they aren't one of a kind.
+ __How do we know we aren't using the same passwords as *millions* of other people?__
 
-This is confirmed year after year when `password` is found to be among the top 3 password for the umpteenth time in a row. Unless the average person knows what an overly common password looks like, they will come up with passwords that have appeared in one of these breaches.
+If crooks are the only ones who understand what common passwords look like, then the rest of us may never change our passwords! Without this knowledge, we may go believing that our password is one of a kind.  Data shows that frequently, passwords certainly are *not* one of a kind.
 
-If any of your passwords has been published on the internet for everyone to see, then can you really claim it as *your* password?
+
+This is confirmed year after year when `password` is found to be among the top 3 password for the umpteenth time in a row. Until we know what common passwords look like, we will come up with passwords that appear on dozens of leaks.
+
+
+If any of your passwords has been published on the internet for everyone to see, then can you really claim it as __*your*__ password?
 
 ## The How
 
-While studying password wordlists, it quickly became clear to me that most were either sorted alphabetically, or not sorted at all. To bring rhyme and reason to these lists, they had to be sorted in a manner that __*reflected actual human behavior*__, not an arbitrary alphabet system.
+While studying password wordlists, it quickly became clear to me that most were either sorted alphabetically, or not sorted at all. These sorting methods work fine for computerized analysis, but I wanted to learn something about the way people think.
 
-For the better part of a year, I went to sites like SecLists, Weakpass, and Hashes.org to downloaded nearly every single Wordlist containing real passwords I could find. After attempting to remove non-pertinent information, I ended up with nearly 1600 files spanning more than 350GB worth of leaked passwords. Some of these lists were composed of smaller lists, and some lists were exact copies, but I took care that the source material was as "pure" as possible.
+I determined that for the most practical analysis, lists had to be sorted in a manner that reflected __actual human behavior__, not an arbitrary alphabet system.
 
-For each file, I removed internal duplicates and ensured that they all used the same style of newline character. Then, all files were combined into a single amalgamation that represented all of the source files.
+For the better part of a year, I went to sites like SecLists, Weakpass, and Hashes.org to downloaded nearly every single Wordlist containing real passwords I could find. After attempting to remove non-pertinent information, this harvest yielded 1600 files spanning more than 350GB worth of leaked passwords.
 
-Each time a password was found in this file represented a time it was found in the source materials. __*If a password was found in mulitple files, I considered this to be an approximation of its popularity.*__ If an entry was found in less than 5 files, it isn't commonly used. But, if an entry could be found more than  300 files, it is incredibly popular. The passwords that were found in the highest number of source files are considered to be the most popular and are placed at top of the list. Conversely, files that didn't appear frequently were placed at the bottom.
+For each file, I removed internal duplicates and ensured that they all used the same style of newline character. Some of these lists were composed of smaller lists, and some lists were exact copies, but I took care that the source material was as "pure" as possible. Then, all files were combined into a single amalgamation that represented all of the source files.
 
-The giant source file represented nearly *13 billion passwords!* However, since this project aims to find the most popular passwords, and not just list as many passwords as I could find, __*a password needed to be found at least 5 times in analysis to be included on these lists.*__
+Each time a password was found in this file represented a time it was found in the source materials. __When a password was found in multiple files, I considered this to be an approximation of its popularity.__ If an entry was found in less than 5 files, it isn't commonly used. But, if an entry could be found more than 350 files, it is incredibly popular. The passwords that were found in the highest number of source files are considered to be the most popular and are placed at top of the list. Files that didn't appear frequently were placed at the bottom.
+
+The giant source file represented nearly *13 billion passwords!* However, since this project aims to find the most popular passwords, and not just list as many passwords as I could find, __a password needed to be found at least 5 times in analysis to be included on these lists.__
 
 The end result is a list of approximately __*2 Billion*__ real passwords, sorted in order of their popularity. The sorting of the lists reflects actual human
 
 ***
 
-## Real-Passwords
+## Directories In This Repository <br>
+
+__Files sorted by popularity will include `probable-v2` in the filename__
+
+### [Real-Passwords](Real-Passwords)
 These are __REAL__ passwords.
-Every once in a while, a popular site has a high-profile security leak and passwords are released freely across the internet.
-Some of these passwords can be found on aggregator sites where they are separated from usernames to protect the unfortunate victim.
 
 The files in this folder come from sites like https://github.com/danielmiessler/SecLists, https://weakpass.com/ and https://hashes.org/
 
-Some files contain entries between 8-40 characters. These can be found in the [Real-Passwords/WPA-Length](Rea-Passwords/WPA-Length) directory.
-
-Lists sorted by popularity will include "probable-v2" in the filename
+Some files contain entries between 8-40 characters. These can be found in the [Real-Passwords/WPA-Length](Real-Passwords/WPA-Length) directory.
 
 
-## Dictionary-Style Lists
+### [Dictionary-Style Lists](Dictionary-Style)
 
-Wordlists including dictionaries, encyclopedic lists and miscellaneous. Wordlists in this folder were not necessarily associated with the *"password"* label.
+Files including dictionaries, encyclopedic lists and miscellaneous. Wordlists in this folder were not necessarily associated with the *"password"* label.
 
-Some technically useful lists, such as common usernames, tlds, subdirectories, etc. are included.
-
-
-## Analysis Files
-
-This folder contains files for steps useful for password recovery and analysis.
-Character masks and Hashcat rules were generated using the
+Some technically useful lists, such as common usernames, tlds, directories, etc. are included.
 
 
-## Tasklist and Plans
+### [Analysis Files](Analysis-Files)
 
-### Undetermined Future Plans - For Rev 3+
-* [ ] Specialized lists compiled from sources themselves
+Files useful for password recovery and analysis. Includes HashCat Rules and Character Masks.
+
+These files were generated using the [PACK](https://github.com/iphelix/pack) project.
 
 
 ## Attributions
@@ -118,28 +124,5 @@ The author's intent for this project is to provide information on insecure passw
 
  __This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)__
 
-#### You are free to:
 
-#### Share
-+ Copy and redistribute the material in any medium or format
-
-#### Adapt
-+ Remix, transform, and build upon the material for any purpose, even commercially.
-
-The licensor cannot revoke these freedoms as long as you follow the license terms.
-
-### Under the following terms:
-
-#### Attribution
-+ You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-#### ShareAlike
-+ If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-#### No additional restrictions
-+ You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-#### Notices:
-+ You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
-+ No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
-
-
-Enjoy!
+## Enjoy!

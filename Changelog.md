@@ -105,3 +105,10 @@
 * Realized that in compressed versions, `Top1575-probable-v2.txt` is named `Top1575-probable2.txt` - not worth taking down and re-uploading the torrents and links for this.
 * Prepared TweetBot
 * Proofreading, but I am likely to find typos and things in the next few days.
+
+
+### 20 Feb 2018 - Rev 2.0 Launch!
+* Added Downloads page
+* Proofreading
+* Removed "Tasklist and Plans" Section until items arise
+*
