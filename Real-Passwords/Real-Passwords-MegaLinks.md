@@ -1,34 +1,52 @@
-# Real-Password Folder Containing Compressed Files
-Contains all the passwords, but *__no__ files exclusively containing __WPA-Length__ lines*
+# Real-Password MegaLinks Containing Compressed Files
+Contains all the passwords, but __*no*__ files exclusively containing __*WPA-Length*__ lines.
 
 
-  * 45.0 GB Uncompressed
-  * Max 7.40 GB Compressed
-  
-## Recommended Unarchivers:
-* Windows: 7Zip
-* Mac: Keka
-* Linux: Command Line, p7zip
-  
-## NOTE THAT INDIVIDUAL FILES CAN BE DOWNLOADED
-## YOU HAVE THE OPTION TO DOWNLOAD ALL OF THE FILES, OR ONE AT A TIME
+* 27 GB Uncompressed
+* Max 8 GB Compressed
+
+ You have the option to download all the files, or get them one at a time.
 
 
-__tar.gz__, 7.40 GB: *https://mega.nz/#F!xaghyJQb!3EDbm5Mcz2pD0HVqyE8rJQ*
+## Real-Password MegaLinks
+*No files linked here are exclusively WPA-Length*
 
-__tar.xz__, 5.22 GB: *https://mega.nz/#F!kS4WyRjZ!rGfdm4stmgoRcmEEhduKzA*
-
-__7z__, 5.20 GB: *https://mega.nz/#F!5CxhhJRA!StYkDCiLPVQ2nMMoyGN1LQ*
-
-__LZMA-ZIP__, 5.16 GB: *https://mega.nz/#F!oWgniCgC!PHZVoS7alMxiRYs9o_Oblg*
-
-
+| Compression Method | Link |
+| --- | --- |
+| __tar.gz__ <br> 8.0 GB total | *https://mega.nz/#F!HRgEwRJR!lTA3GYxLSnC8I7ecOiFjFA* |
+| __7z__ <br> 5.0 GB total |*https://mega.nz/#F!GM5ygaRI!GTyAgQZkONBGgFF7RH0VAg* |
 
 
-__Enjoy!__
+__If any of these links are dead, please open an issue as soon as possible.__
 
 
+<br>
 
-This file last updated on 15 May, 2017
+#### Recommended Unarchivers:
+* Windows: __7Zip__
+* Mac: __Keka__
+* Linux: Command Line, __p7zip__
 
-Most recent commit may be a simple touch, or non-substantive edit to keep all files updated.
+#### Recommended Torrent Client:
+* __Deluge__ gave me the best results in terms of connecting to the seedbox.
+
+
+***
+
+![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
+
+## Disclaimer and License
+ + These lists are for LAWFUL, ETHICAL AND EDUCATIONAL PURPOSES ONLY.
+ + The files contained in this repository are released "as is" without warranty, support, or guarantee of effectiveness.
+ + *However, I am open to hearing about any issues found within these files and will be actively maintaining this repository for the foreseeable future. If you find anything noteworthy, let me know and I'll see what I can do about it.*
+
+ [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+ __This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)__
+
+
+<br>
+Enjoy!
+
+<br>
+This file was last updated on 20 Feb, 2018.

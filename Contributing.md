@@ -1,9 +1,6 @@
-![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
+# Contributing to Probable Wordlists
 
-
-# CONTRIBUTIONS
-
-## Bug fixes, Found Errors , Suggestions for Improvement
+## Bug fixes, Found Errors, Suggestions for Improvement
 1. Create an issue, assuming one does not already exist.
 2. Clearly describe the issue including how you found it, and if you intend to fix it
 3. Fork the repository on GitHub
@@ -11,6 +8,9 @@
 5. Submit a pull request to the main repository
 6. I'll have a look and seriously consider your changes
 
+<br>
+![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
+<br>
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -41,7 +41,5 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 
 
-
-This file last updated on 15 Feb, 2018
-
-Most recent commit may be a simple touch, or non-substantive edit to keep all files updated.
+<br>
+This file was last updated on 20 Feb, 2018.

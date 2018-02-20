@@ -1,29 +1,52 @@
-# Real-Password Folder Containing Compressed WPA-Length Files
-Contains files *composed of __exclusively WPA-Length__ lines*
-
-  * 18.6 GB Uncompressed
-  * Max 6.28 GB Compressed
-  
-## Recommended Unarchivers:
-* Windows: 7Zip
-* Mac: Keka
-* Linux: Command Line, p7zip
-  
-## NOTE THAT INDIVIDUAL FILES CAN BE DOWNLOADED
-## YOU HAVE THE OPTION TO DOWNLOAD ALL OF THE FILES, OR ONE AT A TIME
-
-*NOTE: Until version 2.0, these files may contain passwords of length 7 due to the newline duplicate issue*
+# Real-Password MegaLinks Containing Compressed WPA-Length Files
 
 
-__tar.gz__, 6.28GB: *https://mega.nz/#F!ZWx0RaaD!qdBWbNuZ46l9T5frFP6Tvg*
+All files are composed of __*exclusively WPA-Length*__ lines.
 
-__tar.xz__, 4.42GB: *https://mega.nz/#F!gCwWjCiR!FeQK2YW0r1-MUlAbM1P8NQ*
-
-__7z__, 4.41 GB: *https://mega.nz/#F!cSQzXCjI!z57tPjcPhynq8jNqz3dlyQ*
-
-__LZMA-ZIP__, 4.39 GB: *https://mega.nz/#F!FSgERQxZ!vZI4VXk342d6cjLMGWF2NQ*
+* 25.3 GB Uncompressed
+* Max 7.48 GB Compressed
 
 
-This file last updated on 15 May, 2017
+You have the option to download all the files, or get them one at a time.
 
-Most recent commit may be a simple touch, or non-substantive edit to keep all files updated.
+
+  ## Real-WPA-Password MegaLinks
+  *Exclusively WPA-Length*
+
+
+| Compression Method | Link |
+| --- | --- |
+| __tar.gz__ <br> 7.48 GB total | *https://mega.nz/#F!vZhEkazB!mVGqVVDQi8sFXyWgDkU2vw* |
+| __7z__ <br> 4.27 GB total |*https://mega.nz/#F!eVAGAArR!k5Lso87x7a4wrP03np_Eaw* |
+
+__If any of these links are dead, please open an issue as soon as possible.__
+
+
+#### Recommended Unarchivers:
+* Windows: __7Zip__
+* Mac: __Keka__
+* Linux: Command Line, __p7zip__
+
+#### Recommended Torrent Client:
+* __Deluge__ gave me the best results in terms of connecting to the seedbox.
+
+
+***
+
+![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
+
+## Disclaimer and License
+ + These lists are for LAWFUL, ETHICAL AND EDUCATIONAL PURPOSES ONLY.
+ + The files contained in this repository are released "as is" without warranty, support, or guarantee of effectiveness.
+ + *However, I am open to hearing about any issues found within these files and will be actively maintaining this repository for the foreseeable future. If you find anything noteworthy, let me know and I'll see what I can do about it.*
+
+ [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+ __This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)__
+
+
+<br>
+Enjoy!
+
+<br>
+This file was last updated on 20 Feb, 2018.
