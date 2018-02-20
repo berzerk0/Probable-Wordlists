@@ -9,9 +9,9 @@ This repository does not contain code, but links to a group of lists. <br>
 __*A clone may not be necessary to get the files you need*.__ <br>
 Visit the __[downloads](Downloads.md)__ page for more information.
 
-<br>
-![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
-<br>
+
+![Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
+
 
 #### Check out the [Password Trend Analysis](https://github.com/berzerk0/GitPage/wiki/Actionable-Password-Advice-Based-on-the-Probable-Wordlists) - and learn!
 
