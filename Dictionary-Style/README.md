@@ -1,17 +1,17 @@
 # Dictionary Style Lists
 
-The files in this folder are not sorted by popularity. <br>
-Their contents are not given the label of *"passwords,"* but may be useful wordlists in their own right.
+The files in this folder are __not__ sorted by popularity. <br>
+Their contents are not given the label of "passwords," but may be useful wordlists in their own right.
 
 
-## Torrents
+## Torrent Directory
 * Contained within are torrents of the Dictionary-Style Files
 * Two styles of compression are available: 7Z and tar.gz
 * After downloading, __remember to seed__ to help others get the same access you did.
 * [Mega.nz Links](Dictionary-Style-MegaLinks.md) are provided as a more predictable alternative to torrents.
 
 
-## Contents
+## What Files Are Included?
 
 ### Technical And Default Wordlists
 * Default Domains
@@ -51,9 +51,9 @@ Their contents are not given the label of *"passwords,"* but may be useful wordl
 <br>
 
 #### Recommended Unarchivers:
-* Windows: 7Zip
-* Mac: Keka
-* Linux: Command Line, p7zip
+* Windows: __7Zip__
+* Mac: __Keka__
+* Linux: Command Line, __p7zip__
 
 #### Recommended Torrent Client:
 * __Deluge__ gave me the best results in terms of connecting to the seedbox.
@@ -74,7 +74,8 @@ Their contents are not given the label of *"passwords,"* but may be useful wordl
 
 
 <br>
-__Enjoy!__
+
+Enjoy!
 
 <br>
 This file was last updated on 20 Feb, 2018.

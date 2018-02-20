@@ -13,16 +13,16 @@ Make sure that others have the same access to the files that you did!
 
 
 |Torrent Files| Download Size |
-| --- |
+| --- | --- |
 | [Real-Passwords , 7z Compressed - Torrent](Real-Passwords/Real-Password-Rev-2-Torrents/ProbWL-v2-Real-Passwords-7z.torrent)| 8.0 G.B |
 | [Real-Passwords, tar.gz Compressed - Torrent](Real-Passwords/Real-Password-Rev-2-Torrents/ProbWL-v2-Real-Passwords-targz.torrent)| 5.0 GB |
-|||
+| | |
 | [Real-WPA-Passwords, 7z Compressed - Torrent](Real-Passwords/WPA-Length/WPA-Length-Rev-2-Torrents/ProbWL-v2-Real-WPA-Passwords-7z.torrent)| 4.27 GB |
 | [Real-WPA-Passwords, tar.gz Compressed - Torrent](Real-Passwords/WPA-Length/WPA-Length-Rev-2-Torrents/ProbWL-v2-Real-WPA-Passwords-targz.torrent) | 7.48 GB |
-|||
+| | |
 | [Dictionary-Style Files, 7z Compressed - Torrent](Dictionary-Style/Dictionary-Style-Rev-2-Torrents/ProbWL-v2-Dictionary-Style-7z.torrent)|468.8 MB |
 | [Dictionary-Style Files, tar.gz Compressed - Torrent](Dictionary-Style/Dictionary-Style-Rev-2-Torrents/ProbWL-v2-Dictionary-Style-targz.torrent)| 598.2 MB|
-|||
+| | |
 | [Analysis-Files, 7z Compressed - Torrent](Analysis-Files/Analysis-Files-Torrents/ProbWL-v2-Analysis-Files-7z.torrent)| 284.2 MB |
 | [Analysis-Files, tar.gz Compressed - Torrent](Analysis-Files/Analysis-Files-Torrents/ProbWL-v2-Analysis-Files-targz.torrent)| 416.8 MB |
 
@@ -41,9 +41,9 @@ Make sure that others have the same access to the files that you did!
 <br>
 
 #### Recommended Unarchivers:
-* Windows: 7Zip
-* Mac: Keka
-* Linux: Command Line, p7zip
+* Windows: __7Zip__
+* Mac: __Keka__
+* Linux: Command Line, __p7zip__
 
 #### Recommended Torrent Client:
 * __Deluge__ gave me the best results in terms of connecting to the seedbox.
@@ -64,7 +64,8 @@ Make sure that others have the same access to the files that you did!
 
 
 <br>
-__Enjoy!__
+
+Enjoy!
 
 <br>
 This file was last updated on 20 Feb, 2018.

@@ -39,9 +39,15 @@ HashCat uses character descriptions to outline password composition. They are si
 * `?u` represents `ABCDEFGHIJKLMNOPQRSTUVWXYZ`
 * `?d` represnts `0123456789`
 
+These are not the only characters available, merely an example.
 These are used repeatedly to create __"Masks"__ that are used to describe combinations of characters.
 
-`?l?l?l?d?d?d` represents all combinations of lowercase letters and numbers from `aaa000` through `zzz999`.
+* `?l?l?l?d?d?d` represents all combinations of lowercase letters and numbers from `aaa000` through `zzz999`.
+
+* `?u?d?u?d?u?d` represents all combinations of capital letters and numbers from `A0A0A0` through `Z9Z9Z9`
+
+* `?u?l?l?l?l` represents all 5-letter combinations with a capital first letter, from `Aaaaa` through `Zzzzz`
+
 
 
 These masks are used to describe composition patterns in the list.
@@ -54,9 +60,9 @@ Two files are included:
 <br>
 
 #### Recommended Unarchivers:
-* Windows: 7Zip
-* Mac: Keka
-* Linux: Command Line, p7zip
+* Windows: __7Zip__
+* Mac: __Keka__
+* Linux: Command Line, __p7zip__
 
 #### Recommended Torrent Client:
 * __Deluge__ gave me the best results in terms of connecting to the seedbox.
@@ -76,7 +82,7 @@ Two files are included:
  __This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)__
 
 <br>
-__Enjoy!__
+Enjoy!
 
 
 <br>

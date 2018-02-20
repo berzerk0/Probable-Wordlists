@@ -29,9 +29,9 @@ __If any of these links are dead, please open an issue as soon as possible.__
 <br>
 
 #### Recommended Unarchivers:
-* Windows: 7Zip
-* Mac: Keka
-* Linux: Command Line, p7zip
+* Windows: __7Zip__
+* Mac: __Keka__
+* Linux: Command Line, __p7zip__
 
 #### Recommended Torrent Client:
 * __Deluge__ gave me the best results in terms of connecting to the seedbox.
@@ -52,7 +52,7 @@ __If any of these links are dead, please open an issue as soon as possible.__
 
 
 <br>
-__Enjoy!__
+Enjoy!
 
 <br>
 This file was last updated on 20 Feb, 2018.

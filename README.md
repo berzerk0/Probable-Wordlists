@@ -10,7 +10,7 @@ __*A clone may not be necessary to get the files you need*.__ <br>
 Visit the __[downloads](Downloads.md)__ page for more information.
 
 <br>
-![Probable Wordlists Logo](ProbableWordlistLogo.png)
+![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
 <br>
 
 #### Check out the [Password Trend Analysis](https://github.com/berzerk0/GitPage/wiki/Actionable-Password-Advice-Based-on-the-Probable-Wordlists) - and learn!
@@ -30,11 +30,12 @@ While leaks may be published with malicious intent, I see an opportunity here fo
 Passwords, by definition, are meant to be secret. If it weren't for these leaks, we might not have any idea what a password looks like. Sure, we might know the password to a friend's home Wifi network, or for a company expense account, but passwords are usually only intended to be known by the user and an authentication system.
 
 But, consider this:<br>
-If you are never supposed to tell me yours, and I am never going to tell you mine, __how do we know that we aren't using the same passwords?__<br>
+If you are never supposed to tell me yours, and I am never going to tell you mine... <br>
+ __How do we know that we aren't using the same passwords?__<br>
 
  __How do we know we aren't using the same passwords as *millions* of other people?__
 
-If crooks are the only ones who understand what common passwords look like, then the rest of us may never change our passwords! Without this knowledge, we may go believing that our password is one of a kind.  Data shows that frequently, passwords certainly are *not* one of a kind.
+If crooks are the only ones who understand what common passwords look like, then the rest of us may never change our passwords! Without this knowledge, we may just continue believing that our password is one of a kind.  Data shows that frequently, passwords certainly are *not* one of a kind.
 
 
 This is confirmed year after year when `password` is found to be among the top 3 password for the umpteenth time in a row. Until we know what common passwords look like, we will come up with passwords that appear on dozens of leaks.
@@ -44,15 +45,15 @@ If any of your passwords has been published on the internet for everyone to see,
 
 ## The How
 
-While studying password wordlists, it quickly became clear to me that most were either sorted alphabetically, or not sorted at all. These sorting methods work fine for computerized analysis, but I wanted to learn something about the way people think.
+While studying password wordlists, I noticed most were either sorted alphabetically or not sorted at all. This might be okay computerized analysis, but I wanted to learn something about the way people think.
 
-I determined that for the most practical analysis, lists had to be sorted in a manner that reflected __actual human behavior__, not an arbitrary alphabet system.
+I determined that for the most practical analysis, lists had to be sorted in a manner that reflected __actual human behavior__, not an arbitrary alphabet system or random chronology.
 
 For the better part of a year, I went to sites like SecLists, Weakpass, and Hashes.org to downloaded nearly every single Wordlist containing real passwords I could find. After attempting to remove non-pertinent information, this harvest yielded 1600 files spanning more than 350GB worth of leaked passwords.
 
 For each file, I removed internal duplicates and ensured that they all used the same style of newline character. Some of these lists were composed of smaller lists, and some lists were exact copies, but I took care that the source material was as "pure" as possible. Then, all files were combined into a single amalgamation that represented all of the source files.
 
-Each time a password was found in this file represented a time it was found in the source materials. __When a password was found in multiple files, I considered this to be an approximation of its popularity.__ If an entry was found in less than 5 files, it isn't commonly used. But, if an entry could be found more than 350 files, it is incredibly popular. The passwords that were found in the highest number of source files are considered to be the most popular and are placed at top of the list. Files that didn't appear frequently were placed at the bottom.
+Each time a password was found in this file represented a time it was found in the source materials. __I considered the number of times a password was found across all of the files to be an approximation of its overall popularity.__ If an entry was found in less than 5 files, it isn't commonly used. But, if an entry could be found more than 350 files, it is incredibly popular. The passwords that were found in the highest number of source files are considered to be the most popular and are placed at top of the list. Files that didn't appear frequently were placed at the bottom.
 
 The giant source file represented nearly *13 billion passwords!* However, since this project aims to find the most popular passwords, and not just list as many passwords as I could find, __a password needed to be found at least 5 times in analysis to be included on these lists.__
 
@@ -125,4 +126,5 @@ The author's intent for this project is to provide information on insecure passw
  __This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)__
 
 <br>
+
 ## Enjoy!

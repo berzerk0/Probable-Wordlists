@@ -1,7 +1,4 @@
-![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
-
-
-# CONTRIBUTIONS
+# Contributing to Probable Wordlists
 
 ## Bug fixes, Found Errors, Suggestions for Improvement
 1. Create an issue, assuming one does not already exist.
@@ -11,6 +8,9 @@
 5. Submit a pull request to the main repository
 6. I'll have a look and seriously consider your changes
 
+<br>
+![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
+<br>
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
