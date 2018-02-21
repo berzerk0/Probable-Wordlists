@@ -57,7 +57,7 @@ Each time a password was found in this file represented a time it was found in t
 
 The giant source file represented nearly *13 billion passwords!* However, since this project aims to find the most popular passwords, and not just list as many passwords as I could find, __a password needed to be found at least 5 times in analysis to be included on these lists.__
 
-The end result is a list of approximately __*2 Billion*__ real passwords, sorted in order of their popularity. The sorting of the lists reflects actual human
+The end result is a list of approximately __*2 Billion*__ real passwords, sorted in order of their popularity, not by the alphabet.
 
 ***
 
