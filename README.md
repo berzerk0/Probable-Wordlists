@@ -49,7 +49,7 @@ While studying password wordlists, I noticed most were either sorted alphabetica
 
 I determined that for the most practical analysis, lists had to be sorted in a manner that reflected __actual human behavior__, not an arbitrary alphabet system or random chronology.
 
-For the better part of a year, I went to sites like SecLists, Weakpass, and Hashes.org to downloaded nearly every single Wordlist containing real passwords I could find. After attempting to remove non-pertinent information, this harvest yielded 1600 files spanning more than 350GB worth of leaked passwords.
+For the better part of a year, I went to sites like SecLists, Weakpass, and Hashes.org to download nearly every single Wordlist containing real passwords I could find. After attempting to remove non-pertinent information, this harvest yielded 1600 files spanning more than 350GB worth of leaked passwords.
 
 For each file, I removed internal duplicates and ensured that they all used the same style of newline character. Some of these lists were composed of smaller lists, and some lists were exact copies, but I took care that the source material was as "pure" as possible. Then, all files were combined into a single amalgamation that represented all of the source files.
 
