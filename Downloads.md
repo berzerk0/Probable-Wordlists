@@ -14,8 +14,8 @@ Make sure that others have the same access to the files that you did!
 
 |Torrent Files| Download Size |
 | --- | --- |
-| [Real-Passwords , 7z Compressed - Torrent](Real-Passwords/Real-Password-Rev-2-Torrents/ProbWL-v2-Real-Passwords-7z.torrent)| 8.0 G.B |
-| [Real-Passwords, tar.gz Compressed - Torrent](Real-Passwords/Real-Password-Rev-2-Torrents/ProbWL-v2-Real-Passwords-targz.torrent)| 5.0 GB |
+| [Real-Passwords , 7z Compressed - Torrent](Real-Passwords/Real-Password-Rev-2-Torrents/ProbWL-v2-Real-Passwords-7z.torrent)| 5.0 G.B |
+| [Real-Passwords, tar.gz Compressed - Torrent](Real-Passwords/Real-Password-Rev-2-Torrents/ProbWL-v2-Real-Passwords-targz.torrent)| 8.0 GB |
 | | |
 | [Real-WPA-Passwords, 7z Compressed - Torrent](Real-Passwords/WPA-Length/WPA-Length-Rev-2-Torrents/ProbWL-v2-Real-WPA-Passwords-7z.torrent)| 4.27 GB |
 | [Real-WPA-Passwords, tar.gz Compressed - Torrent](Real-Passwords/WPA-Length/WPA-Length-Rev-2-Torrents/ProbWL-v2-Real-WPA-Passwords-targz.torrent) | 7.48 GB |
