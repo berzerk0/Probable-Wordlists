@@ -17,7 +17,7 @@ Contains all the passwords, but __*no*__ files exclusively containing __*WPA-Len
 | __7z__ <br> 5.0 GB total |*https://mega.nz/#F!GM5ygaRI!GTyAgQZkONBGgFF7RH0VAg* |
 
 
-__If any of these links are dead, please open an issue as soon as possible.__
+__If any of these links are dead, please open an issue as soon as possible with the URL included__
 
 
 <br>
@@ -49,4 +49,4 @@ __If any of these links are dead, please open an issue as soon as possible.__
 Enjoy!
 
 <br>
-This file was last updated on 20 Feb, 2018.
+This file was last updated on 19 Nov, 2019.
