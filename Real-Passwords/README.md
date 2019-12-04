@@ -50,7 +50,7 @@ Understand that a __LOWER__ appearance threshold results in a __LARGER__ file si
 
 
 ##  MegaLinks
-* Wordlists can be [downloaded from Mega.nz](Real-Passwords/Real-Passwords-MegaLinks.md) as a torrent alternative.
+* Wordlists can be [downloaded from Mega.nz](Real-Passwords-MegaLinks.md) as a torrent alternative.
 
 
 <br>
