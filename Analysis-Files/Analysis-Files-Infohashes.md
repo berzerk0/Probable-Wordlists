@@ -1,11 +1,11 @@
-# Analysis-Files Infohashes Containing Compressed Files
+# Analysis-Files Infohashes To Compressed Files
 
 ## Analysis-File Infohashes
 
-| Compression Method | Magnet | Infohash Only |
-| --- | --- | --- |
-| __tar.gz__ <br> 59.3MB total | magnet:?xt=urn:btih:9ae22ffbc4f52236bde66a4d705fc9066380572e | 9ae22ffbc4f52236bde66a4d705fc9066380572e |
-| __7z__ <br> 46.6MB total | magnet:?xt=urn:btih:1633c6e525fab9c6b8a7e02aac51e69f676f746b | 1633c6e525fab9c6b8a7e02aac51e69f676f746b |
+| Compression Method | Magnet <br> *Infohash Only* |
+| --- | --- | 
+| __tar.gz__ <br> 59.3MB total | magnet:?xt=urn:btih:9ae22ffbc4f52236bde66a4d705fc9066380572e <br> *9ae22ffbc4f52236bde66a4d705fc9066380572e* |
+| __7z__ <br> 46.6MB total | magnet:?xt=urn:btih:1633c6e525fab9c6b8a7e02aac51e69f676f746b <br> *1633c6e525fab9c6b8a7e02aac51e69f676f746b* |
 
 __If any of these links are dead, please open an issue as soon as possible.__
 
