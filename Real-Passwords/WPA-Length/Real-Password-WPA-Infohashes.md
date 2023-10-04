@@ -1,4 +1,4 @@
-# Real-Password Infohashes Containing Compressed WPA-Length Files
+# Real-Password Infohashes To Compressed WPA-Length Files
 
 
 All files are composed of __*exclusively WPA-Length*__ lines.
@@ -14,10 +14,10 @@ You have the option to download all the files, or get them one at a time.
   *Exclusively WPA-Length*
 
 
-| Compression Method | Magnet | Infohash Only |
-| --- | --- | --- |
-| __tar.gz__ <br> 7.48 GB total | magnet:?xt=urn:btih:07143ce76b4f051980b7fc353c5743d6c17fffdd | 07143ce76b4f051980b7fc353c5743d6c17fffdd |
-| __7z__ <br> 4.27 GB total |magnet:?xt=urn:btih:4f1007c7eb7b950c948ad49772504bb5f49121f0 | 4f1007c7eb7b950c948ad49772504bb5f49121f0 |
+| Compression Method | Magnet <br> *Infohash Only* |
+| --- | --- | 
+| __tar.gz__ <br> 7.48 GB total | magnet:?xt=urn:btih:07143ce76b4f051980b7fc353c5743d6c17fffdd <br> *07143ce76b4f051980b7fc353c5743d6c17fffdd* |
+| __7z__ <br> 4.27 GB total |magnet:?xt=urn:btih:4f1007c7eb7b950c948ad49772504bb5f49121f0 <br> *4f1007c7eb7b950c948ad49772504bb5f49121f0* |
 
 __If any of these links are dead, please open an issue as soon as possible.__
 
