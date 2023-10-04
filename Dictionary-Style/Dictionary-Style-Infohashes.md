@@ -18,10 +18,10 @@ You have the option to download all the files, or get them one at a time.
   *Not sorted by probability, not passwords.*
 
 
-| Compression Method | Magnet | Infohash Only |
-| --- | --- | --- |
-| __tar.gz__ <br>  598.2 MB total | magnet:?xt=urn:btih:fb05c2af37de70bbae571b247529d4edb68dd47e | fb05c2af37de70bbae571b247529d4edb68dd47e |
-| __7z__ <br> 468.8 MB total | magnet:?xt=urn:btih:877402415cceeb346afa62acc19127813477d7de | 877402415cceeb346afa62acc19127813477d7de |
+| Compression Method | Magnet <br> *Infohash Only* |
+| --- | --- | 
+| __tar.gz__ <br>  598.2 MB total | magnet:?xt=urn:btih:fb05c2af37de70bbae571b247529d4edb68dd47e <br> *fb05c2af37de70bbae571b247529d4edb68dd47e* |
+| __7z__ <br> 468.8 MB total | magnet:?xt=urn:btih:877402415cceeb346afa62acc19127813477d7de <br> *877402415cceeb346afa62acc19127813477d7de* |
 
 __If any of these links are dead, please open an issue as soon as possible.__
 
