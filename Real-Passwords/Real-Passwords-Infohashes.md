@@ -1,4 +1,4 @@
-# Real-Password Infohashes Containing Compressed Files
+# Real-Password Infohashes To Compressed Files
 Contains all the passwords, but __*no*__ files exclusively containing __*WPA-Length*__ lines.
 
 
@@ -11,10 +11,10 @@ Contains all the passwords, but __*no*__ files exclusively containing __*WPA-Len
 ## Real-Password Infohashes
 *No files linked here are exclusively WPA-Length*
 
-| Compression Method | Magnet | Infohash Only |
-| --- | --- | --- |
-| __tar.gz__ <br> 8.0 GB total |  magnet:?xt=urn:btih:d85c40c7f799ae1f48c8f4b891539c7b81a862f0 | d85c40c7f799ae1f48c8f4b891539c7b81a862f0 |
-| __7z__ <br> 5.0 GB total | magnet:?xt=urn:btih:dfbe23e4382cea3252b218f2023dea57d2357852 | dfbe23e4382cea3252b218f2023dea57d2357852 |
+| Compression Method | Magnet <br> *Infohash Only* |
+| --- | --- |
+| __tar.gz__ <br> 8.0 GB total |  magnet:?xt=urn:btih:d85c40c7f799ae1f48c8f4b891539c7b81a862f0 <br> *d85c40c7f799ae1f48c8f4b891539c7b81a862f0* |
+| __7z__ <br> 5.0 GB total | magnet:?xt=urn:btih:dfbe23e4382cea3252b218f2023dea57d2357852 <br> *dfbe23e4382cea3252b218f2023dea57d2357852* |
 
 __If any of these links are dead, please open an issue as soon as possible with the URL included__
 
