@@ -1,4 +1,4 @@
-#Magnet Info
+# Magnet Info
 
 
 To get everything this project has to offer, you will need to download lists from links in this repository.
@@ -10,19 +10,19 @@ You have the ability to download all files at once, or one at a time.
 ## Please Seed!
 Make sure that others have the same access to the files that you did!
 
-| Title | Magnet | Infohash Only | Download Size |
-| --- | --- | --- | --- |
-| ProbWL-v2-Real-Passwords-7z | magnet:?xt=urn:btih:dfbe23e4382cea3252b218f2023dea57d2357852 | dfbe23e4382cea3252b218f2023dea57d2357852 | 5.0 G.B |
-| ProbWL-v2-Real-Passwords-targz | magnet:?xt=urn:btih:d85c40c7f799ae1f48c8f4b891539c7b81a862f0 | d85c40c7f799ae1f48c8f4b891539c7b81a862f0 | 8.0 GB |
-| | | | |
-| ProbWL-v2-Real-WPA-Passwords-7z | magnet:?xt=urn:btih:4f1007c7eb7b950c948ad49772504bb5f49121f0 | 4f1007c7eb7b950c948ad49772504bb5f49121f0 | 4.27 GB |
-| ProbWL-v2-Real-WPA-Passwords-targz | magnet:?xt=urn:btih:07143ce76b4f051980b7fc353c5743d6c17fffdd | 07143ce76b4f051980b7fc353c5743d6c17fffdd | 7.48 GB |
-| | | | |
-| ProbWL-v2-Dictionary-Style-7z | magnet:?xt=urn:btih:877402415cceeb346afa62acc19127813477d7de | 877402415cceeb346afa62acc19127813477d7de | 468.8 MB |
-| ProbWL-v2-Dictionary-Style-targz | magnet:?xt=urn:btih:fb05c2af37de70bbae571b247529d4edb68dd47e | fb05c2af37de70bbae571b247529d4edb68dd47e | 598.2 MB|
-| | | | |
-| ProbWL-v2-Analysis-Files-7z | magnet:?xt=urn:btih:1633c6e525fab9c6b8a7e02aac51e69f676f746b | 1633c6e525fab9c6b8a7e02aac51e69f676f746b | 284.2 MB |
-| ProbWL-v2-Analysis-Files-targz | magnet:?xt=urn:btih:9ae22ffbc4f52236bde66a4d705fc9066380572e | 9ae22ffbc4f52236bde66a4d705fc9066380572e | 416.8 MB |
+| Title<br> (Format)| Magnet<br> *Infohash Only* | Download Size |
+| --- | --- | --- |
+| Real Passwords<br> (7z) | magnet:?xt=urn:btih:dfbe23e4382cea3252b218f2023dea57d2357852<br> *dfbe23e4382cea3252b218f2023dea57d2357852* | 5.0 G.B |
+| Real Passwords<br> (targz) | magnet:?xt=urn:btih:d85c40c7f799ae1f48c8f4b891539c7b81a862f0<br> *d85c40c7f799ae1f48c8f4b891539c7b81a862f0* | 8.0 GB |
+| | | |
+| Real WPA Passwords<br> (7z) | magnet:?xt=urn:btih:4f1007c7eb7b950c948ad49772504bb5f49121f0<br> *4f1007c7eb7b950c948ad49772504bb5f49121f0* | 4.27 GB |
+| Real WPA Passwords<br> (targz) | magnet:?xt=urn:btih:07143ce76b4f051980b7fc353c5743d6c17fffdd<br> *07143ce76b4f051980b7fc353c5743d6c17fffdd* | 7.48 GB |
+| | | |
+| Dictionary Style<br> (7z) | magnet:?xt=urn:btih:877402415cceeb346afa62acc19127813477d7de<br> *877402415cceeb346afa62acc19127813477d7de* | 468.8 MB |
+| Dictionary Style<br> (targz) | magnet:?xt=urn:btih:fb05c2af37de70bbae571b247529d4edb68dd47e<br> *fb05c2af37de70bbae571b247529d4edb68dd47e* | 598.2 MB|
+| | | |
+| Analysis Files<br> (7z) | magnet:?xt=urn:btih:1633c6e525fab9c6b8a7e02aac51e69f676f746b<br> *1633c6e525fab9c6b8a7e02aac51e69f676f746b* | 284.2 MB |
+| Analysis Files<br> (targz) | magnet:?xt=urn:btih:9ae22ffbc4f52236bde66a4d705fc9066380572e<br> *9ae22ffbc4f52236bde66a4d705fc9066380572e* | 416.8 MB |
 
 <br>
 
