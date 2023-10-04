@@ -29,6 +29,19 @@ Make sure that others have the same access to the files that you did!
 <br>
 <br>
 
+| Infohashes for torrent client|
+| --- |
+| [All files](Infohashes.md)|
+||
+| [Real-Passwords](Real-Passwords/Real-Passwords-Infohashes.md)|
+| [Real-WPA-Passwords](Real-Passwords/WPA-Length/Real-Password-WPA-Infohashes.md)|
+| [Dictionary-Style Files](Dictionary-Style/Dictionary-Style-Infohashes.md)|
+| [Analysis-Files](Analysis-Files/Analysis-Files-Infohashes.md)|
+
+
+<br>
+<br>
+
 |MegaLinks |
 | --- |
 | [Real-Passwords](Real-Passwords/Real-Passwords-MegaLinks.md)|
